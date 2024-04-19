@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "d75fa98d0ee410d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbac228dc84b349b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec3232f525069fa9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c63d64b08252ab60",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb18b20c68e59390",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3aeeeddf8d58287c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f7c2daf3fb74f4e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d91636d8b3a9345e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 213.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "f2318133a5c26801",
+    "type": "split",
+    "children": [
+      {
+        "id": "e46182916bedbcb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb01e8ff5b677d92",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "95c7ed86e6016bbc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e77e0d95a7e4bd92",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "34b62aee35b38c0b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "863e42d8ced0f164",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "4dbe973544fbd10f",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "1fc8a80473b1b48d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40272552f0492d9d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 347.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-day-planner:Timeline": false,
+      "random-note:开始漫游笔记": false
+    }
+  },
+  "active": "ec3232f525069fa9",
+  "lastOpenFiles": [
+    "Diary/2024-04-19.md",
+    "Diary/2024-04-09.md",
+    "Diary/2024-04-10.md",
+    "Diary/2024-04-11.md",
+    "Diary/2024-04-12.md",
+    "Diary/2024-04-13.md",
+    "Diary/2024-04-14.md",
+    "Diary/2024-04-15.md",
+    "Diary/2024-04-16.md",
+    "Diary/2024-04-17.md",
+    "Diary/2024-04-18.md",
+    "learning/English/Note/主语选择.md",
+    "learning/English/Note/列表.md",
+    "learning/English/Note/期中翻译段落.md",
+    "learning/English/~$大英.docx",
+    "未命名.md",
+    "learning/English/Note/期中翻译句子.md",
+    "learning/English/Note/期中翻译词语.md",
+    "learning/English/10words.txt",
+    "learning/English/Note/新编汉英翻译教程（第2版） (陈宏薇、李亚丹) (Z-Library).pdf",
+    "learning/English/Note/期中翻译段落.pdf",
+    "learning/形策/字幕.md",
+    "learning/形策",
+    "未命名",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "改变.md",
+    "learning/习概/~$1.docx",
+    "Notes/Welcome.md",
+    "Notes/create a link.md",
+    "Diary",
+    "新建文件夹",
+    "202404101219.md"
+  ]
+}
