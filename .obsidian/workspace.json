@@ -11,8 +11,12 @@
             "id": "ec3232f525069fa9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Diary/2024-04-19.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5,
-    "collapsed": true
+    "width": 213.5
   },
   "right": {
     "id": "f2318133a5c26801",
@@ -101,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Diary/2024-04-19.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Diary/2024-04-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Diary/2024-04-19.md"
+              }
             }
           },
           {
@@ -174,6 +181,8 @@
   },
   "active": "ec3232f525069fa9",
   "lastOpenFiles": [
+    "Simple.md",
+    "未命名.canvas",
     "simple2.txt",
     "notification.txt",
     "README.txt",
@@ -193,7 +202,6 @@
     "learning/English/Note/列表.md",
     "learning/English/Note/期中翻译段落.md",
     "learning/English/~$大英.docx",
-    "未命名.md",
     "learning/English/Note/期中翻译句子.md",
     "learning/English/Note/期中翻译词语.md",
     "learning/English/10words.txt",
@@ -204,9 +212,7 @@
     "未命名",
     "未命名 2.canvas",
     "未命名 1.canvas",
-    "未命名.canvas",
     "改变.md",
-    "learning/习概/~$1.docx",
     "Notes/Welcome.md",
     "Notes/create a link.md",
     "202404101219.md"
