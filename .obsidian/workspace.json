@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fbac228dc84b349b",
+        "id": "3069b780b6ee4a0e",
         "type": "tabs",
         "children": [
           {
-            "id": "ec3232f525069fa9",
+            "id": "c696540129cbc57b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024-04-19.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2024-04-19.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2024-04-19.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024-04-19.md"
+                "file": "README.md"
               }
             }
           },
@@ -179,15 +179,26 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "ec3232f525069fa9",
+  "active": "c696540129cbc57b",
   "lastOpenFiles": [
+    "Diary/2024-04-21.md",
+    "Diary/2024-04-22.md",
+    "conflict-files-obsidian-git.md",
+    "README.md",
+    "learning/English/Note/RedSea.md",
+    "learning/English/Note/主语选择.md",
+    "learning/English/Note/期中翻译句子.md",
+    "learning/English/Note/期中翻译段落.pdf",
+    "learning/English/Note/期中翻译词语.md",
+    "learning/English/Note/期中翻译段落.md",
+    "Diary/2024-04-20.md",
+    "Diary/2024-04-19.md",
     "Simple.md",
     "未命名.canvas",
     "simple2.txt",
     "notification.txt",
     "README.txt",
     "新建 文本文档.txt",
-    "Diary/2024-04-19.md",
     "Diary/2024-04-09.md",
     "Diary/2024-04-10.md",
     "Diary/2024-04-11.md",
@@ -198,23 +209,15 @@
     "Diary/2024-04-16.md",
     "Diary/2024-04-17.md",
     "Diary/2024-04-18.md",
-    "learning/English/Note/主语选择.md",
     "learning/English/Note/列表.md",
-    "learning/English/Note/期中翻译段落.md",
     "learning/English/~$大英.docx",
-    "learning/English/Note/期中翻译句子.md",
-    "learning/English/Note/期中翻译词语.md",
     "learning/English/10words.txt",
     "learning/English/Note/新编汉英翻译教程（第2版） (陈宏薇、李亚丹) (Z-Library).pdf",
-    "learning/English/Note/期中翻译段落.pdf",
     "learning/形策/字幕.md",
     "learning/形策",
     "未命名",
     "未命名 2.canvas",
     "未命名 1.canvas",
-    "改变.md",
-    "Notes/Welcome.md",
-    "Notes/create a link.md",
-    "202404101219.md"
+    "改变.md"
   ]
 }
