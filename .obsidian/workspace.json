@@ -4,18 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "5d4ded94e0544524",
+        "id": "6683ecfd4dde7f52",
         "type": "tabs",
         "children": [
           {
-            "id": "e2398d2bbaf6a5a8",
+            "id": "d5adec8239e28770",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024-04-24.md",
+                "file": "learning/cs/homework/assignment5/assignment5.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "302c5ed8569c2a77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8f4297231ea9998",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "learning/cs/homework/assignment5/assignment5.pdf"
               }
             }
           }
@@ -105,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2024-04-24.md",
+                "file": "learning/cs/homework/assignment5/assignment5.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2024-04-24.md",
+                "file": "learning/cs/homework/assignment5/assignment5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024-04-24.md"
+                "file": "learning/cs/homework/assignment5/assignment5.md"
               }
             }
           },
@@ -180,10 +196,11 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "e2398d2bbaf6a5a8",
+  "active": "d5adec8239e28770",
   "lastOpenFiles": [
-    "Diary/2024-04-24.md",
     "learning/cs/homework/assignment5/assignment5.pdf",
+    "learning/cs/homework/assignment5/assignment5.md",
+    "Diary/2024-04-24.md",
     "learning/cs/homework/assignment5/source/2_kth_element/bin/Debug/2_kth_element.exe",
     "learning/cs/homework/assignment5/source/2_kth_element/2_kth_element.depend",
     "learning/cs/homework/assignment5/source/2_kth_element/obj/Debug/main.o",
@@ -193,7 +210,6 @@
     "learning/cs/homework/assignment5/source/2_kth_element/obj/Debug",
     "learning/cs/homework/assignment5/source/2_kth_element/obj",
     "learning/cs/homework/assignment5/source/2_kth_element/2_kth_element.cbp",
-    "learning/cs/homework/assignment5/assignment5.md",
     "learning/English/Note/主语选择.md",
     "learning/English/Note/RedSea.md",
     "Diary/2024-04-23.md",
@@ -218,7 +234,6 @@
     "Diary/2024-04-15.md",
     "Diary/2024-04-16.md",
     "Diary/2024-04-17.md",
-    "Diary/2024-04-18.md",
     "未命名 2.canvas",
     "未命名 1.canvas"
   ]
