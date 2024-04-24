@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3069b780b6ee4a0e",
+        "id": "5d4ded94e0544524",
         "type": "tabs",
         "children": [
           {
-            "id": "c696540129cbc57b",
+            "id": "e2398d2bbaf6a5a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Diary/2024-04-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 213.5,
+    "collapsed": true
   },
   "right": {
     "id": "f2318133a5c26801",
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Diary/2024-04-24.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Diary/2024-04-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Diary/2024-04-24.md"
               }
             }
           },
@@ -179,26 +180,35 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "c696540129cbc57b",
+  "active": "e2398d2bbaf6a5a8",
   "lastOpenFiles": [
-    "Diary/2024-04-21.md",
+    "Diary/2024-04-24.md",
+    "learning/cs/homework/assignment5/assignment5.pdf",
+    "learning/cs/homework/assignment5/source/2_kth_element/bin/Debug/2_kth_element.exe",
+    "learning/cs/homework/assignment5/source/2_kth_element/2_kth_element.depend",
+    "learning/cs/homework/assignment5/source/2_kth_element/obj/Debug/main.o",
+    "learning/cs/homework/assignment5/source/2_kth_element/obj/Debug/link.o",
+    "learning/cs/homework/assignment5/source/2_kth_element/bin/Debug",
+    "learning/cs/homework/assignment5/source/2_kth_element/bin",
+    "learning/cs/homework/assignment5/source/2_kth_element/obj/Debug",
+    "learning/cs/homework/assignment5/source/2_kth_element/obj",
+    "learning/cs/homework/assignment5/source/2_kth_element/2_kth_element.cbp",
+    "learning/cs/homework/assignment5/assignment5.md",
+    "learning/English/Note/主语选择.md",
+    "learning/English/Note/RedSea.md",
+    "Diary/2024-04-23.md",
     "Diary/2024-04-22.md",
+    "learning/English/Note/Dictation.md",
+    "Diary/2024-04-21.md",
     "conflict-files-obsidian-git.md",
     "README.md",
-    "learning/English/Note/RedSea.md",
-    "learning/English/Note/主语选择.md",
     "learning/English/Note/期中翻译句子.md",
-    "learning/English/Note/期中翻译段落.pdf",
     "learning/English/Note/期中翻译词语.md",
     "learning/English/Note/期中翻译段落.md",
     "Diary/2024-04-20.md",
     "Diary/2024-04-19.md",
     "Simple.md",
     "未命名.canvas",
-    "simple2.txt",
-    "notification.txt",
-    "README.txt",
-    "新建 文本文档.txt",
     "Diary/2024-04-09.md",
     "Diary/2024-04-10.md",
     "Diary/2024-04-11.md",
@@ -209,15 +219,7 @@
     "Diary/2024-04-16.md",
     "Diary/2024-04-17.md",
     "Diary/2024-04-18.md",
-    "learning/English/Note/列表.md",
-    "learning/English/~$大英.docx",
-    "learning/English/10words.txt",
-    "learning/English/Note/新编汉英翻译教程（第2版） (陈宏薇、李亚丹) (Z-Library).pdf",
-    "learning/形策/字幕.md",
-    "learning/形策",
-    "未命名",
     "未命名 2.canvas",
-    "未命名 1.canvas",
-    "改变.md"
+    "未命名 1.canvas"
   ]
 }
