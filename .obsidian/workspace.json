@@ -4,34 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6683ecfd4dde7f52",
+        "id": "86217ac9ecd5b5c8",
         "type": "tabs",
         "children": [
           {
-            "id": "d5adec8239e28770",
+            "id": "cb892c63714987a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/cs/homework/assignment5/assignment5.md",
+                "file": "Diary/2024-04-25.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "302c5ed8569c2a77",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d8f4297231ea9998",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "learning/cs/homework/assignment5/assignment5.pdf"
               }
             }
           }
@@ -85,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5,
-    "collapsed": true
+    "width": 213.5
   },
   "right": {
     "id": "f2318133a5c26801",
@@ -121,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/cs/homework/assignment5/assignment5.md",
+                "file": "Diary/2024-04-25.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning/cs/homework/assignment5/assignment5.md",
+                "file": "Diary/2024-04-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/cs/homework/assignment5/assignment5.md"
+                "file": "Diary/2024-04-25.md"
               }
             }
           },
@@ -186,6 +169,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -196,31 +180,34 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "d5adec8239e28770",
+  "active": "cb892c63714987a3",
   "lastOpenFiles": [
+    "learning/English/Note/翻译作业.md",
+    "learning/English/Note/~$英文原文.docx",
+    "learning/English/Note/英文原文.docx",
+    "learning/English/Note/新建 DOCX 文档.docx",
+    "learning/English/Note/中文~6EA34.tmp",
+    "learning/English/Note/~$中文.docx",
+    "learning/English/Note/中文.docx",
+    "learning/English/Note/翻译作业.html",
+    "learning/English/Note/主语选择.md",
+    "learning/English/Note/期中翻译词语.md",
+    "Diary/2024-04-25.md",
+    "Diary/2024-04-24.md",
+    "learning/English/Note/期中翻译段落.pdf",
+    "learning/English/Note/列表.md",
+    "learning/English/Note/期中翻译段落.md",
+    "learning/English/Note/Dictation.md",
+    "learning/English/Note/RedSea.md",
     "learning/cs/homework/assignment5/assignment5.pdf",
     "learning/cs/homework/assignment5/assignment5.md",
-    "Diary/2024-04-24.md",
-    "learning/cs/homework/assignment5/source/2_kth_element/bin/Debug/2_kth_element.exe",
-    "learning/cs/homework/assignment5/source/2_kth_element/2_kth_element.depend",
-    "learning/cs/homework/assignment5/source/2_kth_element/obj/Debug/main.o",
-    "learning/cs/homework/assignment5/source/2_kth_element/obj/Debug/link.o",
-    "learning/cs/homework/assignment5/source/2_kth_element/bin/Debug",
-    "learning/cs/homework/assignment5/source/2_kth_element/bin",
-    "learning/cs/homework/assignment5/source/2_kth_element/obj/Debug",
-    "learning/cs/homework/assignment5/source/2_kth_element/obj",
-    "learning/cs/homework/assignment5/source/2_kth_element/2_kth_element.cbp",
-    "learning/English/Note/主语选择.md",
-    "learning/English/Note/RedSea.md",
+    "learning/cs/homework/assignment5/source/3_memory_allocator/3_memory_allocator.cbp",
     "Diary/2024-04-23.md",
     "Diary/2024-04-22.md",
-    "learning/English/Note/Dictation.md",
     "Diary/2024-04-21.md",
     "conflict-files-obsidian-git.md",
     "README.md",
     "learning/English/Note/期中翻译句子.md",
-    "learning/English/Note/期中翻译词语.md",
-    "learning/English/Note/期中翻译段落.md",
     "Diary/2024-04-20.md",
     "Diary/2024-04-19.md",
     "Simple.md",
@@ -231,9 +218,6 @@
     "Diary/2024-04-12.md",
     "Diary/2024-04-13.md",
     "Diary/2024-04-14.md",
-    "Diary/2024-04-15.md",
-    "Diary/2024-04-16.md",
-    "Diary/2024-04-17.md",
     "未命名 2.canvas",
     "未命名 1.canvas"
   ]

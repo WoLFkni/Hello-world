@@ -1,3 +1,7 @@
 {
-  "accentColor": ""
+  "accentColor": "#ffbb00",
+  "cssTheme": "Wasp",
+  "baseFontSizeAction": true,
+  "theme": "obsidian",
+  "baseFontSize": 16
 }

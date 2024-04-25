@@ -183,6 +183,7 @@ int main()
         }
         if (success == -1){
             cout << "Error" << endl;
+            break;
         }
     }
     return 0;

@@ -1,10 +1,10 @@
 # depslib dependency file v1.0
-1713919451 source:d:\manythings\learning\cs\homework\assignment5\source\2_kth_element\link.cpp
+1713947527 source:d:\manythings\learning\cs\homework\assignment5\source\2_kth_element\link.cpp
 	"link.h"
 
 1713919451 d:\manythings\learning\cs\homework\assignment5\source\2_kth_element\link.h
 
-1713919451 source:d:\manythings\learning\cs\homework\assignment5\source\2_kth_element\main.cpp
+1713947552 source:d:\manythings\learning\cs\homework\assignment5\source\2_kth_element\main.cpp
 	<iostream>
 	"link.h"
 

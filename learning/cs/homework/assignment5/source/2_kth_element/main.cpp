@@ -6,7 +6,7 @@ int main()
 {
     int n,k;
     cin >> n >> k;
-    int *num = new int[n];  
+    int *num = new int[n];
     for (int i=0; i<n; i++)  cin >> num[i];
 
     ListNode* head = BuildList(num, n);
