@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1714133873 source:d:\manythings\learning\cs\homework\assignment5\source\3_memory_allocator\main.cpp
+	<iostream>
+	<sstream>
+

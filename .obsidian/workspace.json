@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "86217ac9ecd5b5c8",
+        "id": "483ac39061398b22",
         "type": "tabs",
         "children": [
           {
-            "id": "cb892c63714987a3",
+            "id": "2d2e2470a6f00401",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024-04-25.md",
+                "file": "learning/English/Note/note补录.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2024-04-25.md",
+                "file": "learning/English/Note/note补录.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2024-04-25.md",
+                "file": "learning/English/Note/note补录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024-04-25.md"
+                "file": "learning/English/Note/note补录.md"
               }
             }
           },
@@ -144,9 +144,17 @@
               "type": "timeline",
               "state": {}
             }
+          },
+          {
+            "id": "4c7047cca652d1eb",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "1fc8a80473b1b48d",
@@ -180,28 +188,31 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "cb892c63714987a3",
+  "active": "2d2e2470a6f00401",
   "lastOpenFiles": [
+    "learning/English/Note/note补录.md",
     "learning/English/Note/翻译作业.md",
-    "learning/English/Note/~$英文原文.docx",
-    "learning/English/Note/英文原文.docx",
-    "learning/English/Note/新建 DOCX 文档.docx",
-    "learning/English/Note/中文~6EA34.tmp",
-    "learning/English/Note/~$中文.docx",
-    "learning/English/Note/中文.docx",
-    "learning/English/Note/翻译作业.html",
+    "learning/English/Note/列表.md",
+    "learning/English/Note/期中翻译段落.pdf",
+    "Diary/2024-04-27.md",
+    "learning/cs/homework/assignment5/assignment5.md",
+    "learning/cs/homework/assignment5/assignment5.pdf",
+    "learning/cs/homework/assignment5/source/3_memory_allocator/main.exe",
+    "learning/cs/homework/assignment5/source/3_memory_allocator/main.o",
+    "learning/cs/homework/assignment5/source/3_memory_allocator/3_memory_allocator.depend",
+    "Diary/2024-04-26.md",
+    "learning/cs/homework/assignment5/source/3_memory_allocator/bin/Debug/3_memory_allocator.exe",
+    "learning/cs/homework/assignment5/source/3_memory_allocator/obj/Debug/main.o",
+    "learning/cs/homework/assignment5/source/3_memory_allocator/bin/Debug",
+    "learning/cs/homework/assignment5/source/3_memory_allocator/bin",
+    "learning/cs/homework/assignment5/source/3_memory_allocator/obj/Debug",
+    "Diary/2024-04-24.md",
+    "Diary/2024-04-25.md",
     "learning/English/Note/主语选择.md",
     "learning/English/Note/期中翻译词语.md",
-    "Diary/2024-04-25.md",
-    "Diary/2024-04-24.md",
-    "learning/English/Note/期中翻译段落.pdf",
-    "learning/English/Note/列表.md",
     "learning/English/Note/期中翻译段落.md",
     "learning/English/Note/Dictation.md",
     "learning/English/Note/RedSea.md",
-    "learning/cs/homework/assignment5/assignment5.pdf",
-    "learning/cs/homework/assignment5/assignment5.md",
-    "learning/cs/homework/assignment5/source/3_memory_allocator/3_memory_allocator.cbp",
     "Diary/2024-04-23.md",
     "Diary/2024-04-22.md",
     "Diary/2024-04-21.md",
@@ -215,9 +226,6 @@
     "Diary/2024-04-09.md",
     "Diary/2024-04-10.md",
     "Diary/2024-04-11.md",
-    "Diary/2024-04-12.md",
-    "Diary/2024-04-13.md",
-    "Diary/2024-04-14.md",
     "未命名 2.canvas",
     "未命名 1.canvas"
   ]
