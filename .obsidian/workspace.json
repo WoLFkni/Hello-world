@@ -18,6 +18,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f91eb7264e5d1079",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/English/Note/主语选择.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee465a52112f3ea7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/English/Note/Dictation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -190,6 +214,9 @@
   },
   "active": "2d2e2470a6f00401",
   "lastOpenFiles": [
+    "learning/English/Note/Dictation.md",
+    "learning/English/Note/主语选择.md",
+    "learning/English/Note/未命名.md",
     "learning/English/~$eating.docx",
     "learning/English/~$be动词.docx",
     "learning/English/~$避免滥用make和+let.docx",
@@ -197,12 +224,9 @@
     "learning/English/~$23+.12+CET+6.docx",
     "learning/English/Note/RedSea.md",
     "learning/English/Note/note补录.md",
-    "learning/English/Note/Dictation.md",
-    "learning/English/Note/主语选择.md",
     "learning/English/Note/期中翻译词语.md",
     "learning/English/Note/期中翻译段落.md",
     "learning/English/Note/期中翻译句子.md",
-    "learning/English/Note/未命名.md",
     "learning/English/Note/~$中文.docx",
     "learning/English/Note/~$英文原文.docx",
     "learning/English/Note/翻译作业.md",
@@ -212,7 +236,6 @@
     "learning/cs/homework/assignment5/assignment5.md",
     "learning/cs/homework/assignment5/assignment5.pdf",
     "learning/cs/homework/assignment5/source/3_memory_allocator/main.exe",
-    "learning/cs/homework/assignment5/source/3_memory_allocator/main.o",
     "Diary/2024-04-26.md",
     "Diary/2024-04-24.md",
     "Diary/2024-04-25.md",
