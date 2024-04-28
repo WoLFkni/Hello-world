@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "483ac39061398b22",
+        "id": "fb116b54721fcbba",
         "type": "tabs",
         "children": [
           {
-            "id": "2d2e2470a6f00401",
+            "id": "0d963d4f971829df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary/2024-04-28.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -104,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2024-04-28.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2024-04-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Diary/2024-04-28.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,10 +180,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "2d2e2470a6f00401",
+  "active": "0d963d4f971829df",
   "lastOpenFiles": [
-    "learning/English/Note/笔记test 1.md",
     "Diary/2024-04-28.md",
+    "learning/English/Note/笔记test 1.md",
     "learning/English/Note/期中翻译段落.md",
     "learning/English/Note/Dictation.md",
     "learning/English/Note/主语选择.md",
