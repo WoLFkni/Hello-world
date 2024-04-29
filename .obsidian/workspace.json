@@ -11,8 +11,12 @@
             "id": "a5e400319f763db7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "learning/cs/homework/assignment5/assignment5.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -100,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "learning/cs/homework/assignment5/assignment5.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "learning/cs/homework/assignment5/assignment5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "learning/cs/homework/assignment5/assignment5.md"
+              }
             }
           },
           {
@@ -182,6 +190,17 @@
   },
   "active": "a5e400319f763db7",
   "lastOpenFiles": [
+    "learning/cs/homework/assignment5/523030910036.zip",
+    "learning/cs/homework/assignment5/source/523030910036 (2).zip",
+    "learning/cs/homework/assignment5/source/523030910036/1_union/main.cpp",
+    "learning/cs/homework/assignment5/source/523030910036/1_union",
+    "learning/cs/homework/assignment5/source/523030910036/2_kth_element/link.cpp",
+    "learning/cs/homework/assignment5/source/523030910036/2_kth_element",
+    "learning/cs/homework/assignment5/source/523030910036/3_memory_allocator/main.cpp",
+    "learning/cs/homework/assignment5/source/523030910036/3_memory_allocator",
+    "learning/cs/homework/assignment5/source/523030910036/cs1604.txt",
+    "learning/cs/homework/assignment5/source/523030910036",
+    "learning/cs/homework/assignment5/source/新建文件夹",
     "Diary/2024-04-29.md",
     "Diary/2024-04-28.md",
     "learning/English/Note/笔记test 1.md",
@@ -190,22 +209,12 @@
     "learning/English/Note/主语选择.md",
     "learning/English/Note/note补录.md",
     "learning/English/Note/RedSea.md",
-    "learning/English/~$eating.docx",
-    "learning/English/~$be动词.docx",
-    "learning/English/~$避免滥用make和+let.docx",
-    "learning/English/~$大英.docx",
-    "learning/English/~$23+.12+CET+6.docx",
     "learning/English/Note/期中翻译词语.md",
     "learning/English/Note/期中翻译句子.md",
-    "learning/English/Note/~$中文.docx",
-    "learning/English/Note/~$英文原文.docx",
     "learning/English/Note/翻译作业.md",
     "learning/English/Note/列表.md",
     "Diary/2024-04-27.md",
-    "learning/English/Note/期中翻译段落.pdf",
     "learning/cs/homework/assignment5/assignment5.md",
-    "learning/cs/homework/assignment5/assignment5.pdf",
-    "learning/cs/homework/assignment5/source/3_memory_allocator/main.exe",
     "Diary/2024-04-26.md",
     "Diary/2024-04-24.md",
     "Diary/2024-04-25.md",
@@ -218,7 +227,6 @@
     "Diary/2024-04-19.md",
     "Simple.md",
     "未命名.canvas",
-    "Diary/2024-04-09.md",
     "未命名 2.canvas",
     "未命名 1.canvas"
   ]
