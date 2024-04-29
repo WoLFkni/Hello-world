@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1712649562 source:d:\learning\cs\classcontent\4_editor\main.cpp
-	<iostream>
-	<Vector.h>
-	<Stack.h>
-	<istream>
-

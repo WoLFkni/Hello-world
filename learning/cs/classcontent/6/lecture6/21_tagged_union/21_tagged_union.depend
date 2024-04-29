@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1713920106 source:d:\manythings\learning\cs\classcontent\6\lecture6\21_tagged_union\main.cpp
-	<iostream>
-	<string>
-	<sstream>
-	<vector.h>
-

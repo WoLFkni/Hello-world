@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1713256823 source:c:\cygwin64\home\yuting\projects\cs1604-spring2024\examples\lecture6\24_linked_list_multi\main.cpp
-	<iostream>
-	"linked_list.h"
-
-1713256790 c:\cygwin64\home\yuting\projects\cs1604-spring2024\examples\lecture6\24_linked_list_multi\linked_list.h
-
