@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1713936718 source:d:\manythings\learning\cs\homework\assignment5\source\1_union\main.cpp
-	<iostream>
-	<iomanip>
-	<stack.h>
-	<map.h>
-

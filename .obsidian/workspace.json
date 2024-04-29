@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b000f2e2fe3bb181",
+        "id": "9154691eb0342a69",
         "type": "tabs",
         "children": [
           {
-            "id": "9bacfa63594c19f2",
+            "id": "a5e400319f763db7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -180,8 +180,9 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "9bacfa63594c19f2",
+  "active": "a5e400319f763db7",
   "lastOpenFiles": [
+    "Diary/2024-04-29.md",
     "Diary/2024-04-28.md",
     "learning/English/Note/笔记test 1.md",
     "learning/English/Note/期中翻译段落.md",
@@ -218,7 +219,6 @@
     "Simple.md",
     "未命名.canvas",
     "Diary/2024-04-09.md",
-    "Diary/2024-04-10.md",
     "未命名 2.canvas",
     "未命名 1.canvas"
   ]

@@ -56,10 +56,6 @@ void A1(const int& a,const int& x,const int& y){
     mem* p = dummy.next;
     mem* current = &dummy;
     if (p == nullptr){
-        if (x+y > s){
-            cout << "error" << endl;
-            return;
-        }
         p = newmem(a,x,y,nullptr);
         dummy.next = p;
         return;
@@ -80,27 +76,19 @@ void A1(const int& a,const int& x,const int& y){
 
 void f(const int& a,const int& y){
     mem* current = dummy.next;
-    if (current == nullptr){
-        if (y>s){
-            cout << "error" << endl;
-            return;
-        }
-        mem* p = newmem(a,0,y,nullptr);
-        dummy.next = p;
-        return;
-    }
     if ((current->x) >= y){
         mem* p = newmem(a,0,y,current);
         dummy.next = p;
         return;
     }
-    mem* p = current->next;
-    while (p != nullptr && (p->x - (current->x + current->y)) < y){
-        current = p;
-        p = current->next;
+    if (current == nullptr){
+        mem* p = newmem(a,0,y,nullptr);
+        dummy.next = p;
+        return;
     }
-    if (p != nullptr){
-        p = newmem(a,current->x+current->y,y,p);
+    mem* p = current->next;
+    while (p != nullptr && (p->x - (current->x + current->y)) >= y){
+        p = newmem(a,(current->x + current->y),y,p);
         (*current).next = p;
         return;
     }
@@ -135,12 +123,12 @@ void b(const int& a,const int& y){
         current = p;
         p = current->next;
     }
-    if (s-(current->x + current->y) >= y && s-(current->x+current->y) > k){
-        p = newmem(a,(current->x + current->y),y,p);
-        (*current).next = p;
-        return;
-    }
     if (k < y){
+        if ((current->x+current->y + y) <= s){
+            p = newmem(a,(current->x + current->y),y,p);
+            (*current).next = p;
+            return;
+        }
         cout << "error" << endl;
     }else{
         mem* qnext = newmem(a,q->x+q->y,y,q->next);
@@ -166,19 +154,19 @@ void smallest(const int& a,const int& y){
             q = current;
             k = p->x - (current->x + current->y);
         }
-        if (p->x - (current->x + current->y) >= y && (p->x - (current->x + current->y)) < k){
+        else if (p->x - (current->x + current->y) >= y && (p->x - (current->x + current->y)) < k){
             q = current;
             k = p->x - (current->x + current->y);
         }
         current = p;
         p = current->next;
     }
-    if (s-(current->x+current->y) >= y && (k < y || s-(current->x+current->y) < k)){
-        p = newmem(a,(current->x + current->y),y,p);
-        (*current).next = p;
-        return;
-    }
     if (k < y){
+        if ((current->x+current->y + y) <= s){
+            p = newmem(a,(current->x + current->y),y,p);
+            (*current).next = p;
+            return;
+        }
         cout << "error" << endl;
     }else{
         mem* qnext = newmem(a,q->x+q->y,y,q->next);
@@ -201,7 +189,7 @@ void A2(const int& a,const int& y,const char& c){
 void O(){
      mem* p = dummy.next;
      while (p != nullptr){
-        cout << p->x << " "<< p->y << " " << p->a << endl;
+        cout << p->x << " " << p->y  << " " << p->a << endl;
         p = p->next;
      }
 }
