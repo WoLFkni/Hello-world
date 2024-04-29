@@ -1,0 +1,56 @@
+Lecture 1:
+* What is Computation in Imperative Programming
+* C++ is a compiled language
+* What is computational thinking?
+
+Lecture 2:
+* Data Types (Representation in Memory, Logical Values interperted from memory)
+* Variables are container of values (contents in variables are determined by types)
+* Implicit conversions between data types (rules are described in https://en.cppreference.com/w/c/language/conversion)
+* Char vs. String
+* Input & Output Streams
+* Differences between expressions and statements
+* Do not confuse C++ and Python syntax (e.g., -2 < -1 < 0 is FALSE in C++)
+* Short-circuit evaluation as guards
+* Avoid nesting of complex expressions (however, there are common patterns often used by programmers)
+* Control flow statements
+
+Lecture 3:
+* Structure of C++ Functions
+* Semantics of C++ Functions (Call-by-value)
+* Lifetime and Scopes of Variables
+* Iteration and Recursion of Functions
+* Abstract Data Types & Strings
+* Iteration Patterns
+* Tail Recursion
+* References and Call-by-name
+
+Lecture 4:
+* Function Overlaoding (Same function name, different implementations)
+* Template Functions (Same name, same implementation, different types)
+* Template Classes
+* Vectors: A Sequence of elements of the same type. Random access
+* Operator overloading
+* Bubble Sorting
+* Stack: A Sequence of elements of the same type. First-In-Last-Out
+* Queue: A Sequence of elements of the same type. First-In-First-Out
+* Iteration vs. Recursion
+* Map: Mapping from keys to values (dictionaries)
+
+Lecture 5:
+* Layout of Memory & Memory Addresses
+* L-values vs. R-values
+* L-value expressions vs. R-value expressions
+* L-value positions vs. R-value positions
+* Separation of Memory States and Environments
+* Pointers are memory addresses as R-values
+* Differences between pointers and pointer variables
+* Address-Of and Dereference Operators
+* Pointer to Pointers
+* Pointer as Function Arguments (call-by-value)
+* Arrays
+* Decaying of Arrays into Pointers
+* Pointer arithemtics
+* Array as function arguments
+* Higher-order arrays
+* C-style strings

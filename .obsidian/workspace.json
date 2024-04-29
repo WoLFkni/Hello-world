@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/cs/homework/assignment5/assignment5.md",
+                "file": "learning/cs/review.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 213.5,
+    "collapsed": true
   },
   "right": {
     "id": "f2318133a5c26801",
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/cs/homework/assignment5/assignment5.md",
+                "file": "learning/cs/review.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning/cs/homework/assignment5/assignment5.md",
+                "file": "learning/cs/review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/cs/homework/assignment5/assignment5.md"
+                "file": "learning/cs/review.md"
               }
             }
           },
@@ -190,6 +191,9 @@
   },
   "active": "a5e400319f763db7",
   "lastOpenFiles": [
+    "learning/cs/recitation.txt",
+    "learning/cs/homework/assignment5/assignment5.md",
+    "learning/cs/review.md",
     "learning/cs/homework/assignment5/source/523030910036.zip",
     "learning/cs/homework/assignment5/523030910036.zip",
     "learning/cs/homework/assignment5/source/523030910036 (2).zip",
@@ -200,7 +204,6 @@
     "learning/cs/homework/assignment5/source/523030910036/3_memory_allocator/main.cpp",
     "learning/cs/homework/assignment5/source/523030910036/3_memory_allocator",
     "learning/cs/homework/assignment5/source/523030910036/cs1604.txt",
-    "learning/cs/homework/assignment5/source/523030910036",
     "Diary/2024-04-29.md",
     "Diary/2024-04-28.md",
     "learning/English/Note/笔记test 1.md",
@@ -214,7 +217,6 @@
     "learning/English/Note/翻译作业.md",
     "learning/English/Note/列表.md",
     "Diary/2024-04-27.md",
-    "learning/cs/homework/assignment5/assignment5.md",
     "Diary/2024-04-26.md",
     "Diary/2024-04-24.md",
     "Diary/2024-04-25.md",
@@ -225,7 +227,6 @@
     "README.md",
     "Diary/2024-04-20.md",
     "Diary/2024-04-19.md",
-    "Simple.md",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
