@@ -131,7 +131,7 @@ R-value position放左值：隐式转换
 		cout << *p << endl;
 	打印的是a的data，因为cout需要一个右值，所以把a转换成右值。
 ```
-** \*p =\*p+1 **
+%% ** \*p =\*p+1 ** %%
 ```
 l
 	type : T**
@@ -142,4 +142,73 @@ l1
 ```
 ```
 reference 给另一个名字
+```
+```
+指向头部元素的指针p类型int *
+p+1 = l1 + 4
+指向整个数组(e.g. 5个元素的数组)的指针p类型int (*)[5]
+p+1 = l1 + 20
+
+p[i] is equivalent to *(p+i)
+	p can be pointer or array
+	
+cout << *(p+i)
+i是一个常数：两次左值到右值：
+	p+i p read
+	cout << *(p+i)
+i是一个变量：3次，因为i要从左值读成右值
+cout << a[i]
+	*(a + i)
+i是一个常数：两次左值到右值：
+	a 数组左值 decay到 指针右值
+	cout << a[i]
+i是一个变量：3次
+```
+***bubble sort***
+好处：同样元素相对位置不变(?)
+```
+out-of-bound access数组越界
+有时候不会报错
+```
+```
+函数：
+	参数为: f(int a[])，a实际也是一个指针
+	参数为: f(int *arr) 也是一个指针
+传数组时最好一起传进数组大小：int n
+```
+```
+int a[4][3] = 4 consecutive L-value of type int[3]
+int (*p) [5]
+	括号必须存在
+	指针类型：int *[5]
+		int a[5] = {4,2,1,3,5};
+		int (*p) [5] = &a;
+		&不可省略
+int *p[N] defines an array of N pointers sto integers
+```
+```
+C-Style Strings
+NULL character '\0' (=0 ASCIL)
+nullptr 具体存储什么与平台有关
+
+C-Style String 长度比实际大小短1
+	char s[] = "abc";
+	cout << sizeof(s);
+		输出: 4 还有终止符0
+	cout << strlen(s);
+		输出: 3
+Buffer Overflow 
+	C-Style String 没有末尾的0
+```
+```
+Command line argument 
+**argv
+
+int a;
+int b[5];
+int *p;
+p = &a;
+p = b;
+p->[]->	[] <- a
+	|->	[][][][] <- b
 ```

@@ -1,7 +1,10 @@
 {
-  "accentColor": "#ffbb00",
-  "cssTheme": "",
+  "accentColor": "#f8c537",
+  "cssTheme": "Typora-Vue",
   "baseFontSizeAction": true,
   "theme": "moonstone",
-  "baseFontSize": 17
+  "baseFontSize": 17,
+  "enabledCssSnippets": [
+    "eye-protection-color"
+  ]
 }
