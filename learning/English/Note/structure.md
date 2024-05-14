@@ -180,4 +180,6 @@ It is common knowledge / general knowledge / a shared understanding that ...
 
 ### practice
 在春季传染病的突发季节，重要的是做好个人的饮食卫生，加强体育锻炼。
+It is vital / crucial / critical / indispensable / essential / important that we should pay due(充分的，恰当的) attention to / pay heed to 
+
 政府新出台的政策，
