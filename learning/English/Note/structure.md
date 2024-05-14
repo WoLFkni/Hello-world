@@ -103,11 +103,16 @@ It is alleged that this event was engineered by a local terrorist group. On the 
 
 ### It is +adj. + that clause
 It is important that 
-important / crucial / essential / vital / critical / indispensible 
+important / crucial / essential / vital / critical / indispensable 
 necessary / 
-life necessities / nutrient / luxuris
+life necessities / nutrient / luxuries
 It is appropriate / inappropriate that 
 appropriate / proper
 ~~It is correct that ~~
-It is advisable that ... 
-……是合理的
+
+> ……是合理的，明智的
+	It is advisable that ... 
+	sensible / advisable / well-advised 
+~~It is wise that~~ It is wise to do sth 但不是无人称结构
+> ……是不明智的
+	It is inadvisable / ill-advised / insensible that ...
