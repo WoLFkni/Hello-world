@@ -37,4 +37,22 @@ At the mere mention of the upcoming holiday, we will be in cloud nine/ we will b
 > 按照定义
 	By definition,
 > 据估计
-	It is 
+	It is estimated that
+
+> 有人发现
+	It has been found that
+
+> 人们通常认为
+	It is usually considered 
+> 普遍
+	usually / universally / widely / commonly / generally
+> 认为
+	considered / believed / held / agreed / thought / acknowledged / accepted / argued / understood / assumed / viewed
+
+> 据规定
+	It is established that 
+	It is ruled that 
+	It is stipulated that
+> A well-established version 一个约定俗成的版本
+> A deep-rooted racial bias 一种根深蒂固的偏见
+> A deeply-ingrained racial bias
