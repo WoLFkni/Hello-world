@@ -120,3 +120,6 @@ It is alleged that this event was engineered by a local terrorist group. On the 
 ~~It is wise that~~ It is wise to do sth 但不是无人称结构
 > ……是不明智的
 	It is inadvisable / ill-advised / insensible that ...
+
+> 明显的是，显然
+	It is clear / apparent / obvious / evident / self-evidenr
