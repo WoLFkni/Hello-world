@@ -75,4 +75,23 @@ It has been illustrated that
 举个例子
 As an illustration
 A prime example is 
-take sht for example
+take sth for example
+
+It has been proved that 
+> 声称，据称
+	It is claimed that 
+	claim a wallet 认领钱包
+	claim the lives of the cattle 剥夺生命
+> 不可否认的是
+	It cannot be denied that
+	There is no denying that ...
+	It is undeniable that ...
+	It is a truism that ...
+
+> 有人建议
+	It is recommended that (should ) do (虚拟结构)
+	It is proposed / suggested / advised that 
+
+> 必须强调的是
+	It is suggested / emphasized / underscored / highlighted that 
+
