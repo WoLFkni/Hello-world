@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 213.5,
-    "collapsed": true
+    "width": 213.5
   },
   "right": {
     "id": "f2318133a5c26801",
@@ -159,6 +159,7 @@
   },
   "active": "5721df0c51ebe213",
   "lastOpenFiles": [
+    "learning/English/Note/主语选择.md",
     "learning/English/Note/structure.md",
     "learning/English/Note/西湖醋鱼.md",
     "learning/English/未命名.md",
@@ -174,7 +175,6 @@
     "Diary/2024-05-09.md",
     "learning/English/Note/期中翻译词语.md",
     "learning/English/Note/期中翻译句子.md",
-    "learning/English/Note/主语选择.md",
     "learning/English/Note/期中翻译段落.md",
     "Diary/2024-05-08.md",
     "Diary/2024-05-07.md",

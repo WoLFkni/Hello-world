@@ -155,7 +155,7 @@ It is true that
 True enough, 
 Be true to one's words
 
-### it is + noun + that
+### It is + noun + that
 通常的情况是
 It is often the case that 
 
@@ -177,3 +177,7 @@ It is self-evident that ...
 
 ……是普遍的共识， ……是众所周知的
 It is common knowledge / general knowledge / a shared understanding that ...
+
+### practice
+在春季传染病的突发季节，重要的是做好个人的饮食卫生，加强体育锻炼。
+政府新出台的政策，
