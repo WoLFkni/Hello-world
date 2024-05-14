@@ -185,4 +185,10 @@ public health 公共卫生
 environment sanitation 环境卫生 
 
 政府新出台的政策，限制私家车的发展是十分明智的。
-It is sensible / **advisable / well-advised 
+It was sensible / **advisable** / well-advised that new policy were issued / released / enact / promulgated to curb the rampancy of private cars.
+curb the rampancy 意译, 遏制发展
+rampant 猖獗的 
+rampant piracy 盗版猖獗
+rampant academic miscond
+rampant smuggling
+clear cutting

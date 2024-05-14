@@ -143,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 347.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,7 +158,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "f7c2daf3fb74f4e1",
+  "active": "5721df0c51ebe213",
   "lastOpenFiles": [
     "learning/English/Note/主语选择.md",
     "learning/English/Note/structure.md",
