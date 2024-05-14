@@ -195,5 +195,12 @@ rampant clear-cutting 猖獗的乱砍滥伐
 
 不言而喻的是，她性格内向，不善言谈，对他未来的职业生涯将带来诸多的负面影响。
 It is a truism that / it is self-evident that his introverted character and verbal incompetence will exert negative impacts on his career.
-exert / have / exercise negative(消极的) / hazardous(有害的) / deleterious(有害的) / detrimental(有害的) /  impact on sb.
+产生有害影响
+exert / have / exercise negative(消极的) / hazardous(有害的) / deleterious(有害的) / detrimental(有害的) / pernicious(有毒的，有害的) / malignant(有害的) impact on sb.
+对……有害，损害，破坏
+take a toll on sth. 
+play havoc on sth.
+wreak havoc with
+
 当代大学生
+It is advisable / preferable that current students in contemporary times should be well-ground in their expertise, involve themselves highly in social practice in an effort to go 

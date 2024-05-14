@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9e398073d3279928",
+        "id": "9d19d6be59966282",
         "type": "tabs",
         "children": [
           {
-            "id": "5721df0c51ebe213",
+            "id": "f31b9264b9c3791c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/English/Note/structure.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,7 +66,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 213.5,
+    "collapsed": true
   },
   "right": {
     "id": "f2318133a5c26801",
@@ -97,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/English/Note/structure.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning/English/Note/structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "learning/English/Note/structure.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,10 +151,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "5721df0c51ebe213",
+  "active": "f31b9264b9c3791c",
   "lastOpenFiles": [
-    "learning/English/Note/主语选择.md",
     "learning/English/Note/structure.md",
+    "learning/English/Note/主语选择.md",
     "learning/English/Note/西湖醋鱼.md",
     "learning/English/未命名.md",
     "learning/English/Note/Dictation.md",
