@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "传染",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,7 +157,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "5721df0c51ebe213",
+  "active": "f7c2daf3fb74f4e1",
   "lastOpenFiles": [
     "learning/English/Note/主语选择.md",
     "learning/English/Note/structure.md",
