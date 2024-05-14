@@ -66,18 +66,18 @@ It follows naturally that 由此可以得出……（结论）
 	It must be admitted that
 	Admittedly, 逗号的第八剑法，评注性状语结构
 
-我们可以放心地说
-It may be safely said that 
-我们可以放心地得出结论
-It can be safely concluded that 
-已经说明的是
-It has been illustrated that 
-举个例子
-As an illustration
-A prime example is 
-take sth for example
-
-It has been proved that 
+> 我们可以放心地说
+	It may be safely said that 
+> 我们可以放心地得出结论
+	It can be safely concluded that 
+> 已经说明的是
+	It has been illustrated that 
+> 举个例子
+	As an illustration
+	A prime example is 
+	take sth for example
+> 已经证明
+	It has been proved that 
 > 声称，据称
 	It is claimed that 
 	claim a wallet 认领钱包
@@ -102,13 +102,17 @@ It is predicted that human beings / mankind will land on the Mars in the mid-21s
 It is alleged that this event was engineered by a local terrorist group. On the very day, its head claimed that ...
 
 ### It is +adj. + that clause
-It is important that 
-important / crucial / essential / vital / critical / indispensable 
-necessary / 
-life necessities / nutrient / luxuries
-It is appropriate / inappropriate that 
-appropriate / proper
-~~It is correct that ~~
+> 很重要
+	It is important that 
+	important / crucial / essential / vital / critical / indispensable 
+> 必须的
+	necessary / 
+>生活必需品
+	life necessities / nutrient / luxuries
+> 正确的/不正确的
+	It is appropriate / inappropriate that 
+	appropriate / proper
+~~It is correct that~~
 
 > ……是合理的，明智的
 	It is advisable that ... 
