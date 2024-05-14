@@ -21,3 +21,20 @@
 	It is expected that
 ~~it is wished that~~ 错误的，拓展过度，语病
 A long-anticipated Olympic games
+expected sth. of sb. 注意人和物的顺序 期待某人干某事
+
+> 有人提到
+	It is mentioned that
+At the mere mention of the upcoming holiday, we will be in cloud nine/ we will be wild with joy.
+
+> 据权威消息获悉
+	It is authoritatively learned that
+
+> 据预测
+	It is predicted that
+> 据我估计
+	In my estimate,
+> 按照定义
+	By definition,
+> 据估计
+	It is 
