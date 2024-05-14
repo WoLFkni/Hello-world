@@ -188,7 +188,12 @@ environment sanitation 环境卫生
 It was sensible / **advisable** / well-advised that new policy were issued / released / enact / promulgated to curb the rampancy of private cars.
 curb the rampancy 意译, 遏制发展
 rampant 猖獗的 
-rampant piracy 盗版猖獗
-rampant academic miscond
-rampant smuggling
-clear cutting
+rampant piracy 猖獗的盗版
+rampant academic misconduct 猖獗的学术造假
+rampant smuggling 猖獗的
+rampant clear-cutting 猖獗的乱砍滥伐
+
+不言而喻的是，她性格内向，不善言谈，对他未来的职业生涯将带来诸多的负面影响。
+It is a truism that / it is self-evident that his introverted character and verbal incompetence will exert negative impacts on his career.
+exert / have / exercise negative(消极的) / hazardous(有害的) / deleterious(有害的) / detrimental(有害的) /  impact on sb.
+当代大学生
