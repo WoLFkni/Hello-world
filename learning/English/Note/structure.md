@@ -53,6 +53,26 @@ At the mere mention of the upcoming holiday, we will be in cloud nine/ we will b
 	It is established that 
 	It is ruled that 
 	It is stipulated that
-> A well-established version 一个约定俗成的版本
-> A deep-rooted racial bias 一种根深蒂固的偏见
-> A deeply-ingrained racial bias
+A well-established version 一个约定俗成的版本
+A deep-rooted racial bias 一种根深蒂固的偏见
+A deeply-ingrained racial bias
+
+> 由此可以看出
+	It will be seen from this that 
+It follows naturally that 由此可以得出……（结论）
+	宾语从句，不是无人称结构
+
+> 必须承认的是
+	It must be admitted that
+	Admittedly, 逗号的第八剑法，评注性状语结构
+
+我们可以放心地说
+It may be safely said that 
+我们可以放心地得出结论
+It can be safely concluded that 
+已经说明的是
+It has been illustrated that 
+举个例子
+As an illustration
+A prime example is 
+take sht for example
