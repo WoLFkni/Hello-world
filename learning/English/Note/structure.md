@@ -163,4 +163,17 @@ It is often the case that
 It is a pity that 
 It is a shame that 
 
-是……时候了，应该是……的时候l
+是……时候了，应该是……的时候了
+It is (high / tall) time that ... (past form / (should) do，虚拟语气)
+Time is ripe for us to take some effective measures to reverse the trend. 时机成熟
+
+凑巧的是
+It is a coincidence that ...
+What a coincidence!
+
+不言而喻的是，不言自明的是
+It is a truism that ...
+It is self-evident that ... 
+
+……是普遍的共识， ……是众所周知的
+It is common knowledge / general knowledge / a shared understanding that ...
