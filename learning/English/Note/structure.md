@@ -122,4 +122,23 @@ It is alleged that this event was engineered by a local terrorist group. On the 
 	It is inadvisable / ill-advised / insensible that ...
 
 > 明显的是，显然
-	It is clear / apparent / obvious / evident / self-evidenr
+	It is clear / apparent / obvious / evident / self-evident that 
+~~it is conspicuous that~~
+
+奇怪的是，蹊跷的是
+It is strange that...
+~~odd / weird / queer / eccentric / outlandish / uncanny~~
+odd enough, 
+
+可能……
+It is likely / possible / probable that
+maybe 副词
+很可能
+Chances are that 
+Odds are that 
+There is a strong likelihood that 
+There stands much possibility that 
+
+更可取的是
+It is preferable that...
+It is de
