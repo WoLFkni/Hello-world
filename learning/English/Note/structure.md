@@ -139,6 +139,28 @@ Odds are that
 There is a strong likelihood that 
 There stands much possibility that 
 
-更可取的是
-It is preferable that...
-It is de
+更可取的是……，应该……
+It is preferable that ...
+It is desirable that ...
+
+幸运的是
+It is lucky that ...
+It is fortunately that ...
+Luck would have it that ...
+By stroke of luck, ...行大运，走运，走好运
+
+诚然，说真的
+It is true that 
+~~real / genuine / authentic~~
+True enough, 
+Be true to one's words
+
+### it is + noun + that
+通常的情况是
+It is often the case that 
+
+遗憾的是
+It is a pity that 
+It is a shame that 
+
+是……时候了，应该是……的时候l
