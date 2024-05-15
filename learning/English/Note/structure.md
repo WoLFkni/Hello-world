@@ -135,7 +135,7 @@ It is likely / possible / probable that
 maybe 副词
 很可能
 Chances are that 
-Odds are that 
+The odds are that 
 There is a strong likelihood that 
 There stands much possibility that 
 
@@ -190,7 +190,7 @@ curb the rampancy 意译, 遏制发展
 rampant 猖獗的 
 rampant piracy 猖獗的盗版
 rampant academic misconduct 猖獗的学术造假
-rampant smuggling 猖獗的
+rampant smuggling 猖獗的走私
 rampant clear-cutting 猖獗的乱砍滥伐
 
 不言而喻的是，她性格内向，不善言谈，对他未来的职业生涯将带来诸多的负面影响。
