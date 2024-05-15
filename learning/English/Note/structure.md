@@ -202,8 +202,8 @@ take a toll on sth.
 play havoc on sth.
 wreak havoc with
 
-			4) 当代大学生应当在学好N知识文化的同时，踊跃投身社会实践，锻炼才干，磨练意志。
-					
+4) 当代大学生应当在学好知识文化的同时，踊跃投身社会实践，锻炼才干，磨练意志。
+
 It is advisable / preferable that college students in contemporary times should be well-grounded in their expertise, involve themselves highly in social practice in an effort to gain some know-how and temper their will. 
 
 5) 他的提拔遭到了全票否决，显然是因为他经常在领导面前溜须拍马，阿谀奉承。
