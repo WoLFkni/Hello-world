@@ -11,8 +11,12 @@
             "id": "f31b9264b9c3791c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "learning/English/Note/structure.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "传染",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,13 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 213.5,
-    "collapsed": true
+    "width": 213.5
   },
   "right": {
     "id": "f2318133a5c26801",
@@ -94,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "learning/English/Note/structure.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "learning/English/Note/structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "learning/English/Note/structure.md"
+              }
             }
           },
           {
@@ -153,14 +159,14 @@
   },
   "active": "f31b9264b9c3791c",
   "lastOpenFiles": [
+    "learning/English/Note/列表.md",
+    "learning/English/Note/翻译作业.md",
+    "learning/English/Note/笔记test 1.md",
     "learning/English/Note/structure.md",
     "learning/English/Note/主语选择.md",
     "learning/English/Note/西湖醋鱼.md",
     "learning/English/未命名.md",
     "learning/English/Note/Dictation.md",
-    "learning/English/Note/列表.md",
-    "learning/English/Note/翻译作业.md",
-    "learning/English/Note/笔记test 1.md",
     "learning/cs/review(1).md",
     "learning/cs/review.md",
     "learning/cs/Note.md",
