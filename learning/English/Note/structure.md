@@ -93,21 +93,21 @@ It follows naturally that 由此可以得出……（结论）
 	It is proposed / suggested / advised that 
 
 > 必须强调的是
-	It is suggested / emphasized / underscored / highlighted that 
+	It is stressed / emphasized / underscored / highlighted that 
 
 据预测，人类将在21世纪中叶登上火星
 It is predicted that human beings / mankind will land on the Mars in the mid-21st century.
 
 据称，该事故是由当地一个恐怖主义组织一手策划的。当天，该恐怖主义头目...
-It is alleged that this event was engineered by a local terrorist group. On the very day, its head claimed that ...
+It was alleged that this event was engineered by a local terrorist group. On the very day, its head claimed that ...
 
 ### It is +adj. + that clause
 > 很重要
 	It is important that 
 	important / crucial / essential / vital / critical / indispensable 
 > 必须的
-	necessary / 
->生活必需品
+	necessary / imperative
+>生活必需品/奢侈品
 	life necessities / nutrient / luxuries
 > 正确的/不正确的
 	It is appropriate / inappropriate that 
