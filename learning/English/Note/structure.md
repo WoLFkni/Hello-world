@@ -202,5 +202,42 @@ take a toll on sth.
 play havoc on sth.
 wreak havoc with
 
-当代大学生
-It is advisable / preferable that current students in contemporary times should be well-ground in their expertise, involve themselves highly in social practice in an effort to go 
+			4) 当代大学生应当在学好N知识文化的同时，踊跃投身社会实践，锻炼才干，磨练意志。
+					
+It is advisable / preferable that college students in contemporary times should be well-grounded in their expertise, involve themselves highly in social practice in an effort to gain some know-how and temper their will. 
+
+5) 他的提拔遭到了全票否决，显然是因为他经常在领导面前溜须拍马，阿谀奉承。
+
+It was obvious that he was voted down unanimously as a result of his flattery to his superiors.
+
+6) 现在是采取强有力的措施，打击腐败、惩治贪官污吏的时候了。
+
+It is high time that we should adopt strong measures to crack down on corruption and punish the corrupt officials. 
+
+7) 那天我逛街时，碰到她正巧也在逛街。
+
+It was a coincidence that I ran into her when I was hanging around on the streets. 
+
+8) 不言而喻的是，一个具有雄心壮志的人，学习时会更卖力，工作时会更刻苦。
+
+It is a truism that a person with a towering ambition will be highly motivated to study and work.
+
+9) 据预测，人类将在21世纪中叶登上火星。
+
+It is predicted that man will land on the Mars in the mid-21st century.
+
+10) 据称，该事故是由当地一个恐怖主义组织一手策划的。当天，该恐怖主义头目声称对该事件负责。
+
+It was alleged that this event was engineered by a local terrorist group. On the very day, its head claimed responsibility for it.
+
+11)  必须强调的是，疯狂敛财而置消费者的生命安全于不顾是不得人心的卑劣行径。
+
+It must be stressed that making fortune frantically to the neglect of the safety of consumers’ lives is a shame.
+
+12) 据规定，年满18周岁的公民有资格出入酒吧等社交场所。
+
+It is stipulated that citizens who are above 18 years old are entitled to such social functions as pubs.
+
+13) 从权威媒体获悉，本季度将大幅度削减燃料增值税。
+
+It is learned authoritatively that the value-added tax of fuel will be cut sharply this quarter.
