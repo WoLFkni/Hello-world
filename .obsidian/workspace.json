@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "amount",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,13 +158,14 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "f7c2daf3fb74f4e1",
+  "active": "f31b9264b9c3791c",
   "lastOpenFiles": [
-    "learning/数电/note.md",
-    "learning/English/Note/graph and drawing.md",
-    "learning/English/未命名.md",
-    "learning/English/Note/笔记test 1.md",
+    "learning/English/错误翻译.md",
+    "learning/English/Note/期中翻译句子.md",
     "learning/English/Note/主语选择.md",
+    "learning/English/Note/graph and drawing.md",
+    "learning/数电/note.md",
+    "learning/English/Note/笔记test 1.md",
     "learning/English/Note/note补录.md",
     "learning/English/Note/structure.md",
     "learning/English/Note/列表.md",
@@ -178,7 +179,6 @@
     "新建 文本文档.txt",
     "Diary/2024-05-09.md",
     "learning/English/Note/期中翻译词语.md",
-    "learning/English/Note/期中翻译句子.md",
     "learning/English/Note/期中翻译段落.md",
     "Diary/2024-05-08.md",
     "Diary/2024-05-07.md",
