@@ -6,4 +6,5 @@ visualise oneself as +n.
 a must of and a prelude to + n. ……是n.必要的
 amount to something 有所作为
 What the caricature portrays is thought-provoking, 
-hold ... at bay 防止某人某事zao'cheng
+hold ... at bay 防止某人某事对你造成不愉快的影响。
+shirk one's responsibility of 逃避责任
