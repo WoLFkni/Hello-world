@@ -43,7 +43,7 @@ At the mere mention of the upcoming holiday, we will be in cloud nine/ we will b
 	It has been found that
 
 > 人们通常认为
-	It is usually considered 
+	It is usually considered that
 > 普遍
 	usually / universally / widely / commonly / generally
 > 认为
@@ -86,7 +86,7 @@ It follows naturally that 由此可以得出……（结论）
 	It cannot be denied that
 	There is no denying that ...
 	It is undeniable that ...
-	It is a  truism that ...
+	It is a truism that ...
 
 > 有人建议
 	It is recommended that (should ) do (虚拟结构)
