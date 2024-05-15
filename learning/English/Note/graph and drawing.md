@@ -5,3 +5,5 @@ be poised to 准备好
 visualise oneself as +n.
 a must of and a prelude to + n. ……是n.必要的
 amount to something 有所作为
+What the caricature portrays is thought-provoking, 
+hold ... at bay 防止某人某事zao'cheng
