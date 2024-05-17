@@ -339,3 +339,17 @@ social functions
 13) 从权威媒体获悉，本季度将大幅度削减燃料增值税。
 
 It is learned authoritatively that the value-added tax of fuel will be cut sharply this quarter.
+
+cut down on 削减
+cut down on military spending
+税收
+tax
+tariff
+大幅度上升或下降
+substantially / alarmingly / massively / dramatically / incredibly / impressively / sharply
+by a wide margin 
+by leaps and bounds 
+
+大家普遍认为，大学课程应该又一定的挑战性，以适应竞争日益激烈的人工智能时代
+It is commonly / widely / usually / universally / generally / believed / accepted / agreed / held / acknowledged  that college courses should be enough to the era of AI when competition is increasingly
+be tailored to 
