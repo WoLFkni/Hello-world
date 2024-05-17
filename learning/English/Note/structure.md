@@ -196,23 +196,28 @@ rampant clear-cutting 猖獗的乱砍滥伐
 不言而喻的是，她性格内向，不善言谈，对他未来的职业生涯将带来诸多的负面影响。
 It is a truism that / it is self-evident that his introverted character and verbal incompetence will exert negative impacts on his career.
 产生有害影响
-exert / have / exercise negative(消极的) / hazardous(有害的) / deleterious(有害的) / detrimental(有害的) / pernicious(有毒的，有害的) / malignant(有害的) impact on sb.
+	exert / have / exercise negative(消极的) / hazardous(有害的) / deleterious(有害的) / detrimental(有害的) / pernicious(有毒的，有害的) / malignant(有害的) impact on sb.
 对……有害，损害，破坏
-take a toll on sth. 
-play havoc on sth.
-wreak havoc with
-extroverted 外向的
+	take a toll on sth. 
+	play havoc with sth.
+	wreak havoc on
+	impinge on 
+	bear upon
+	exert some negative impact on 产生负面影响
 introverted 内向的
-reserved 沉默寡言的
+	extroverted 外向的
+	reserved 沉默寡言的
 non-verbal communications非言语交流
-verbal intelligence / verbal competence 表达能力
-language intuition 预感
-exert 
+	verbal intelligence / verbal competence 表达能力
+	language intuition 预感
+
 
 4) 当代大学生应当在学好知识文化的同时，踊跃投身社会实践，锻炼才干，磨练意志。
 
 It is advisable / preferable that college students in contemporary times should be well-grounded in their expertise, involve themselves highly in social practice in an effort to gain some know-how and temper their will. 
-
+理应，应该，更可取
+It's preferable / desirable that ...
+well-grounded 
 5) 他的提拔遭到了全票否决，显然是因为他经常在领导面前溜须拍马，阿谀奉承。
 
 It was obvious that he was voted down unanimously as a result of his flattery to his superiors.
