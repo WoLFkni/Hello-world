@@ -171,12 +171,12 @@ Be true to one's words
 	It is a coincidence that ...
 	What a coincidence!
 
-不言而喻的是，不言自明的是
-It is a truism that ...
-It is self-evident that ... 
+> 不言而喻的是，不言自明的是
+	It is a truism that ...
+	It is self-evident that ... 
 
-……是普遍的共识， ……是众所周知的
-It is common knowledge / general knowledge / a shared understanding that ...
+> ……是普遍的共识， ……是众所周知的
+	It is common knowledge / general knowledge / a shared understanding that ...
 
 ### practice
 在春季传染病的突发季节，重要的是做好个人的饮食卫生，加强体育锻炼。
@@ -317,9 +317,21 @@ orchestrate (可褒可贬)
 
 It must be stressed that making fortune frantically to the neglect of the safety of consumers’ lives is a shame.
 
+必须强调的是
+It must be stressed / emphasized / reiterated(外交场合中居多) that 
+疯狂敛财
+make fortune frantically 
+make fortune by fair or by foul (不择手段地)
+
+to the neglect of 
+
 12) 据规定，年满18周岁的公民有资格出入酒吧等社交场所。
 
 It is stipulated that citizens who are above 18 years old are entitled to such social functions as pubs.
+
+It is established / ruled / stipulated that 
+be entitled to doing 
+social functions 社交场所
 
 13) 从权威媒体获悉，本季度将大幅度削减燃料增值税。
 
