@@ -217,7 +217,17 @@ non-verbal communications非言语交流
 It is advisable / preferable that college students in contemporary times should be well-grounded in their expertise, involve themselves highly in social practice in an effort to gain some know-how and temper their will. 
 理应，应该，更可取
 It's preferable / desirable that ...
-well-grounded 
+学好专业知识
+be well-grounded in their expertise  
+学知识
+**acquire** / *pick up* / **gain** / *accumulate* knowledge / skills 
+教知识
+**pass on** / *impart* / **diffuse** / *disseminate*  some knowledge to sb
+踊跃参加
+involve oneself deeply in 
+锻炼才干
+gain some know-how 
+
 5) 他的提拔遭到了全票否决，显然是因为他经常在领导面前溜须拍马，阿谀奉承。
 
 It was obvious that he was voted down unanimously as a result of his flattery to his superiors.
