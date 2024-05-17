@@ -125,51 +125,51 @@ It was alleged that this event was engineered by a local terrorist group. On the
 	It is clear / apparent / obvious / evident / self-evident that 
 ~~it is conspicuous that~~
 
-奇怪的是，蹊跷的是
-It is strange that...
+> 奇怪的是，蹊跷的是
+	It is strange that...
 ~~odd / weird / queer / eccentric / outlandish / uncanny~~
 odd enough, 
 
-可能……
-It is likely / possible / probable that
-maybe 副词
-很可能
-Chances are that 
-The odds are that 
-There is a strong likelihood that 
-There stands much possibility that 
+> 可能……
+	It is likely / possible / probable that
+	maybe 副词
+> 很可能
+	Chances are that 
+	The odds are that 
+	There is a strong likelihood that 
+	There stands much possibility that 
 
-更可取的是……，应该……
-It is preferable that ...
-It is desirable that ...
+> 更可取的是……，应该……
+	It is preferable that ...
+	It is desirable that ...
 
-幸运的是
-It is lucky that ...
-It is fortunately that ...
-Luck would have it that ...
-By stroke of luck, ...行大运，走运，走好运
+> 幸运的是
+	It is lucky that ...
+	It is fortunately that ...
+	Luck would have it that ...
+	By stroke of luck, ...行大运，走运，走好运
 
-诚然，说真的
-It is true that 
+> 诚然，说真的
+	It is true that 
 ~~real / genuine / authentic~~
 True enough, 
 Be true to one's words
 
 ### It is + noun + that
-通常的情况是
-It is often the case that 
+> 通常的情况是
+	It is often the case that 
 
-遗憾的是
-It is a pity that 
-It is a shame that 
+> 遗憾的是
+	It is a pity that 
+	It is a shame that 
 
-是……时候了，应该是……的时候了
-It is (high / tall) time that ... (past form / (should) do，虚拟语气)
-Time is ripe for us to take some effective measures to reverse the trend. 时机成熟
+> 是……时候了，应该是……的时候了
+	It is (high / tall) time that ... (past form / (should) do，虚拟语气)
+	Time is ripe for us to take some effective measures to reverse the trend. 时机成熟
 
-凑巧的是
-It is a coincidence that ...
-What a coincidence!
+> 凑巧的是
+	It is a coincidence that ...
+	What a coincidence!
 
 不言而喻的是，不言自明的是
 It is a truism that ...
