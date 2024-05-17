@@ -356,4 +356,12 @@ It is commonly / widely / usually / universally / generally / believed / accepte
 面对如此令人忧心忡忡的局面，现在是采取补救措施扭转形势的时候了。
 In view of / Facing / Confronted with such a deplorable / disturbing / ever-worsening situation, it is high / tall time that we should adopt remedial measures to reverse the trend. / Time is ripe for us to adopt remedial measures to reverse the trend.
 
-It can be asserted that memory will fade / decline with age. A famous name, for example, is on the tip of 
+It can be asserted that memory will fade / decline with age. A famous name, for example, is on the tip of your tongue
+
+It must be stressed / emphasized that accusations without solid / hard / strong evidence cannot hold water legally.
+hold water 一般用于否定句当中
+cannot hold water 站不住脚
+flimsy / soft / weak evidence 站不住脚的，不过硬的证据
+evidence 不可数
+There is strong evidence that .... 许多证据表明
+Evidence is strong that ... 倒装+tong
