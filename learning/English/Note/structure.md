@@ -262,20 +262,25 @@ crack down on / combat / fight 打击
 clean officials 清廉的官员
 
 7) 那天我逛街时，碰到她正巧也在逛街。
-
 It was a coincidence that I ran into her when I was hanging around on the streets. 
 
 巧合
 coincidence
 偶遇，邂逅，相逢
-run into / come 
-闲逛
+run into / come across 
+闲逛，游荡
 hang around
-
+吃家常便饭
+eat the pot's luck
+幸运的是
+It is lucky that 
+Luck would have it that
 
 8) 不言而喻的是，一个具有雄心壮志的人，学习时会更卖力，工作时会更刻苦。
-
 It is a truism that a person with a towering ambition will be highly motivated to study and work.
+
+ambitious 中性：野心/壮志
+be motivated to do 
 
 9) 据预测，人类将在21世纪中叶登上火星。
 
