@@ -351,5 +351,4 @@ by a wide margin
 by leaps and bounds 
 
 大家普遍认为，大学课程应该又一定的挑战性，以适应竞争日益激烈的人工智能时代
-It is commonly / widely / usually / universally / generally / believed / accepted / agreed / held / acknowledged  that college courses should be enough to the era of AI when competition is increasingly
-be tailored to 
+It is commonly / widely / usually / universally / generally / believed / accepted / agreed / held / acknowledged that college courses should be challenging enough to **be tailored to** / *be adjusted to* / **be adapted to** / *be accustomed to* / **settle into** the era of AI when competition is increasingly fierce / keen / sharp / acute / raging / tough / strong / intense.
