@@ -291,11 +291,27 @@ be absorbed in one's study
 9) 据预测，人类将在21世纪中叶登上火星。
 It is predicted that man will land on the Mars in the mid-21st century.
 
-
+天气预报
+weather forecast 
+~~It 's forecast that~~
+人类
+human beings
+man
+mankind
+human race 
+humanity
+工作落实，搞定工作，得到工作
+land a job
+secure  a job
 
 10) 据称，该事故是由当地一个恐怖主义组织一手策划的。当天，该恐怖主义头目声称对该事件负责。
 
 It was alleged that this event was engineered by a local terrorist group. On the very day, its head claimed responsibility for it.
+
+it was claimed that / it was alleged that 
+策划(不好的事情)
+be engineered by
+oches
 
 11)  必须强调的是，疯狂敛财而置消费者的生命安全于不顾是不得人心的卑劣行径。
 
