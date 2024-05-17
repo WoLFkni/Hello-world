@@ -311,7 +311,7 @@ It was alleged that this event was engineered by a local terrorist group. On the
 it was claimed that / it was alleged that 
 策划(不好的事情)
 be engineered by
-oches
+orchestrate (可褒可贬)
 
 11)  必须强调的是，疯狂敛财而置消费者的生命安全于不顾是不得人心的卑劣行径。
 
