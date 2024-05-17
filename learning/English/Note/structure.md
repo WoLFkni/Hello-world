@@ -330,8 +330,11 @@ to the neglect of
 It is stipulated that citizens who are above 18 years old are entitled to such social functions as pubs.
 
 It is established / ruled / stipulated that 
+有资格
 be entitled to doing 
-social functions 社交场所
+gian / have access to WiFi 能上网 (**零冠词**！！)
+社交场所
+social functions 
 
 13) 从权威媒体获悉，本季度将大幅度削减燃料增值税。
 
