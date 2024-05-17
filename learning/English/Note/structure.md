@@ -241,12 +241,20 @@ vote for / vote against
 cast a ballot vote 不记名投票
 vote sb down 投票使下台
 unanimously 全体一致地
-溜须拍马
-flattery to s
+溜须拍马，阿谀奉承（意思相同，减词法(omission)）
+flattery to sb 
+The photo flatters me. 上相
+I'm camera-shy 不上相的
+photo-genetic 上相的
 
 6) 现在是采取强有力的措施，打击腐败、惩治贪官污吏的时候了。
 
-It is high time that we should adopt strong measures to crack down on corruption and punish the corrupt officials. 
+It is high time that we should adopt / adopted strong measures to crack down on corruption and punish the corrupt officials. 
+
+It's high / tall time that ((should) do sth / past tense)
+strong measures
+drastic measures 剧烈的措施
+
 
 7) 那天我逛街时，碰到她正巧也在逛街。
 
