@@ -53,23 +53,7 @@
       "key": "F"
     }
   ],
-  "editor:focus-top": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "ArrowUp"
-    }
-  ],
-  "editor:focus-bottom": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "ArrowDown"
-    }
-  ],
-  "editor:focus-right": [
+  "app:toggle-left-sidebar": [
     {
       "modifiers": [
         "Mod"
@@ -77,7 +61,7 @@
       "key": "ArrowLeft"
     }
   ],
-  "editor:focus-left": [
+  "app:toggle-right-sidebar": [
     {
       "modifiers": [
         "Mod"
