@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "读书",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 213.5,
-    "collapsed": true
+    "width": 213.5
   },
   "right": {
     "id": "f2318133a5c26801",
@@ -158,11 +158,12 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "1f2a9c58f17e4169",
+  "active": "f7c2daf3fb74f4e1",
   "lastOpenFiles": [
+    "learning/English/Note/翻译作业.md",
+    "learning/English/Note/structure.md",
     "learning/English/Note/graph and drawing.md",
     "learning/English/Note/笔记test 1.md",
-    "learning/English/Note/structure.md",
     "learning/English/Note/主语选择.md",
     "learning/English/Note/期中翻译词语.md",
     "learning/English/错误翻译.md",
@@ -170,7 +171,6 @@
     "learning/数电/note.md",
     "learning/English/Note/note补录.md",
     "learning/English/Note/列表.md",
-    "learning/English/Note/翻译作业.md",
     "learning/English/Note/西湖醋鱼.md",
     "learning/English/Note/Dictation.md",
     "learning/cs/review(1).md",

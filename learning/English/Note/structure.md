@@ -280,11 +280,18 @@ Luck would have it that
 It is a truism that a person with a towering ambition will be highly motivated to study and work.
 
 ambitious 中性：野心/壮志
-be motivated to do 
+be motivated to do 卖力地
+努力学习
+be bent on one's study 
+stay focused on one's study 
+apply oneself to one's study
+be engrossed in one's study
+be absorbed in one's study
 
 9) 据预测，人类将在21世纪中叶登上火星。
-
 It is predicted that man will land on the Mars in the mid-21st century.
+
+
 
 10) 据称，该事故是由当地一个恐怖主义组织一手策划的。当天，该恐怖主义头目声称对该事件负责。
 
