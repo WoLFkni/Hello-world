@@ -369,5 +369,12 @@ a piece of evidence
 
 It is learned that credits will transfer between the two universities early next year, which will mark a substantial cooperation between them.
 
-It can be predicted that a growing number of foreign financial establishment will crowd in and promise to intensify the competition in the domestic financial sector as china
+It can be predicted that a growing number of foreign financial establishment will crowd in and promise to intensify / exacerbate the competition in the domestic financial sector as China is opening even wider to the outside world.
 economic financial establishment 金融机构
+
+It can be safely said that e-commerce will embrace / usher in a promising / bright future amid the rapid growth of sales volumes in the past two decades.
+十年 decade 
+千年 millennium
+
+It is a truism that all media statements would fall flat as the negotiation between two sides reached a deadlock / came to an impasses / was at a standoff.
+失灵，不攻自破 fall flat 
