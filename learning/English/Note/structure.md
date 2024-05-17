@@ -363,5 +363,11 @@ hold water 一般用于否定句当中
 cannot hold water 站不住脚
 flimsy / soft / weak evidence 站不住脚的，不过硬的证据
 evidence 不可数
-There is strong evidence that .... 许多证据表明
-Evidence is strong that ... 倒装+tong
+There is strong evidence that .... 许多证据表明……
+Evidence is strong that ... 倒装+同位语，证据有力地表明
+a piece of evidence 
+
+It is learned that credits will transfer between the two universities early next year, which will mark a substantial cooperation between them.
+
+It can be predicted that a growing number of foreign financial establishment will crowd in and promise to intensify the competition in the domestic financial sector as china
+economic financial establishment 金融机构
