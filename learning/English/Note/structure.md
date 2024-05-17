@@ -252,13 +252,26 @@ photo-genetic 上相的
 It is high time that we should adopt / adopted strong measures to crack down on corruption and punish the corrupt officials. 
 
 It's high / tall time that ((should) do sth / past tense)
-strong measures
+strong measures 有力措施
 drastic measures 剧烈的措施
-
+remedial measures 补救措施
+effective measures 有效
+expedient measures 权宜之计
+viable / feasible measures 切实可行的措施
+crack down on / combat / fight 打击
+clean officials 清廉的官员
 
 7) 那天我逛街时，碰到她正巧也在逛街。
 
 It was a coincidence that I ran into her when I was hanging around on the streets. 
+
+巧合
+coincidence
+偶遇，邂逅，相逢
+run into / come 
+闲逛
+hang around
+
 
 8) 不言而喻的是，一个具有雄心壮志的人，学习时会更卖力，工作时会更刻苦。
 
