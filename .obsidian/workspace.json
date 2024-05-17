@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e399a6f0c5007978",
+        "id": "34577cce7d969d1d",
         "type": "tabs",
         "children": [
           {
-            "id": "1f2a9c58f17e4169",
+            "id": "c081ee39344ec602",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/English/Note/structure.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/English/Note/structure.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning/English/Note/structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "learning/English/Note/structure.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,10 +150,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "1f2a9c58f17e4169",
+  "active": "c081ee39344ec602",
   "lastOpenFiles": [
-    "learning/English/Note/翻译作业.md",
     "learning/English/Note/structure.md",
+    "learning/English/Note/翻译作业.md",
     "learning/English/Note/graph and drawing.md",
     "learning/English/Note/笔记test 1.md",
     "learning/English/Note/主语选择.md",

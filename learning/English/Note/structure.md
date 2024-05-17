@@ -376,5 +376,8 @@ It can be safely said that e-commerce will embrace / usher in a promising / brig
 十年 decade 
 千年 millennium
 
-It is a truism that all media statements would fall flat as the negotiation between two sides reached a deadlock / came to an impasses / was at a standoff.
+It is a truism that all media statements would fall flat / fall through as the negotiation between two sides reached a deadlock / came to an impasses / was at a standoff.
 失灵，不攻自破 fall flat 
+
+It was quoted as saying that the president of this scandal-ridden legislature was ready to take the slings of the arrow.
+承受各种打击 take the slings of the arrow
