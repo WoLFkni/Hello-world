@@ -227,10 +227,22 @@ be well-grounded in their expertise
 involve oneself deeply in 
 锻炼才干
 gain some know-how 
+know how : 本领，才干
+以便，为了
+*in a bid to do / in an effort to do / in an attempt to do* / **with a view to (doing)**
 
 5) 他的提拔遭到了全票否决，显然是因为他经常在领导面前溜须拍马，阿谀奉承。
-
 It was obvious that he was voted down unanimously as a result of his flattery to his superiors.
+
+显然
+It is apparent / evident / obvious / clear that 
+投票支持/反对
+vote for / vote against 
+cast a ballot vote 不记名投票
+vote sb down 投票使下台
+unanimously 全体一致地
+溜须拍马
+flattery to s
 
 6) 现在是采取强有力的措施，打击腐败、惩治贪官污吏的时候了。
 
