@@ -201,6 +201,13 @@ exert / have / exercise negative(消极的) / hazardous(有害的) / deleterious
 take a toll on sth. 
 play havoc on sth.
 wreak havoc with
+extroverted 外向的
+introverted 内向的
+reserved 沉默寡言的
+non-verbal communications非言语交流
+verbal intelligence / verbal competence 表达能力
+language intuition 预感
+exert 
 
 4) 当代大学生应当在学好知识文化的同时，踊跃投身社会实践，锻炼才干，磨练意志。
 
