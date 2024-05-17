@@ -332,7 +332,7 @@ It is stipulated that citizens who are above 18 years old are entitled to such
 It is established / ruled / stipulated that 
 有资格
 be entitled to doing 
-gian / have access to WiFi 能上网 (**零冠词**！！)
+gain / have access to WiFi 能上网 (**零冠词**！！)
 社交场所
 social functions 
 
@@ -340,15 +340,20 @@ social functions
 
 It is learned authoritatively that the value-added tax of fuel will be cut sharply this quarter.
 
-cut down on 削减
+- cut down on 削减
 cut down on military spending
-税收
+- 税收
 tax
 tariff
-大幅度上升或下降
+- 大幅度上升或下降
 substantially / alarmingly / massively / dramatically / incredibly / impressively / sharply
 by a wide margin 
 by leaps and bounds 
 
 大家普遍认为，大学课程应该又一定的挑战性，以适应竞争日益激烈的人工智能时代
 It is commonly / widely / usually / universally / generally / believed / accepted / agreed / held / acknowledged that college courses should be challenging enough to **be tailored to** / *be adjusted to* / **be adapted to** / *be accustomed to* / **settle into** the era of AI when competition is increasingly fierce / keen / sharp / acute / raging / tough / strong / intense.
+
+面对如此令人忧心忡忡的局面，现在是采取补救措施扭转形势的时候了。
+In view of / Facing / Confronted with such a deplorable / disturbing / ever-worsening situation, it is high / tall time that we should adopt remedial measures to reverse the trend. / Time is ripe for us to adopt remedial measures to reverse the trend.
+
+It can be asserted that memory will fade / decline with age. A famous name, for example, is on the tip of 
