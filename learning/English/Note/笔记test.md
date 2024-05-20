@@ -23,7 +23,7 @@ public utilities
 9、 **与国际接轨**
 align with the international standards 
 10、 **按月分期付款**
-
+monthly installment payment 
 11、 **（买房的）首付款**
 
 12、 **释放被压抑的怒气**

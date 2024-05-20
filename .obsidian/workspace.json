@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/English/Note/note补录.md",
+                "file": "learning/English/Note/笔记test.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning/English/Note/note补录.md",
+                "file": "learning/English/Note/笔记test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/English/Note/note补录.md"
+                "file": "learning/English/Note/笔记test.md"
               }
             }
           },
@@ -176,10 +176,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "b4fe9be03b5079ab",
+  "active": "c081ee39344ec602",
   "lastOpenFiles": [
-    "learning/English/Note/笔记test.md",
     "learning/English/Note/note补录.md",
+    "learning/English/Note/笔记test.md",
     "learning/English/Note/structure.md",
     "learning/English/Note/主语选择.md",
     "learning/English/Note/笔记test 1.md",
