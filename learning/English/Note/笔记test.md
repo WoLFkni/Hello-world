@@ -21,7 +21,7 @@ pay heed to personal hygiene
 8、 **公共设施**
 public utilities
 9、 **与国际接轨**
-%% international standard %%
+align with the international standards 
 10、 **按月分期付款**
 
 11、 **（买房的）首付款**

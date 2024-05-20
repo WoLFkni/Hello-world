@@ -312,4 +312,14 @@ cry
 	pent-up emotion 被压抑的感情
 
 分期付款
-> installment 
+> installment payment
+
+与国际接轨
+> align with the international standards 
+> accord with the international practices
+> in synchrony with the international norms
+
+卫生
+> personal hygiene 个人卫生
+> public health 公共卫生
+> environment sanitation 环境卫生
