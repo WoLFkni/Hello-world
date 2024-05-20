@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "老弱病残孕专座",
+                "query": "exorbitant",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,12 +158,12 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "c081ee39344ec602",
+  "active": "f7c2daf3fb74f4e1",
   "lastOpenFiles": [
-    "learning/English/Note/主语选择.md",
-    "learning/English/Note/笔记test.md",
-    "learning/English/Note/note补录.md",
     "learning/English/Note/structure.md",
+    "learning/English/Note/笔记test.md",
+    "learning/English/Note/主语选择.md",
+    "learning/English/Note/note补录.md",
     "learning/English/Note/笔记test 1.md",
     "learning/English/Note/翻译作业.md",
     "learning/English/Note/graph and drawing.md",

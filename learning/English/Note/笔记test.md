@@ -9,19 +9,19 @@ a controversial topic
 2、 **引起巨大的争议**
 trigger much controversy
 3、 **（电视节目播出的）黄金时段**
-
+a prime time
 4、 **芳华，美妙的青春**
-
+the prime youth
 5、 **尖端的科技**
 cutting-edge technology
 6、 **采取权宜之计**
-expedient measures
+take an expedient measure
 7、 **讲究个人卫生**
- pay heed to personal hygiene
+pay heed to personal hygiene
 8、 **公共设施**
 public utilities
 9、 **与国际接轨**
-international standard
+%% international standard %%
 10、 **按月分期付款**
 
 11、 **（买房的）首付款**
@@ -29,11 +29,11 @@ international standard
 12、 **释放被压抑的怒气**
 
 13、 **谋取暴利**
-
+gain exorbitant profits
 14、 **获得微薄的利润**
-
+gain thin profits
 15、 **上网**
-
+gain / have access to WiFi
 16、 **慢性病**
 chronic diseases
 17、 **急性病**
@@ -41,9 +41,9 @@ acute diseases
 18、 **遏制通货膨胀**
 curb the inflation
 19、 **老弱病残孕专座**
-
+priority seats for the old, the weak , the sick, the handicapped, and the pregnant
 20、 **优先发展基础设施**
-
+Top priority must be given to the development of infrastructure facilities
 21、 **加剧头疼**
 
 22、 **缓解头疼**
