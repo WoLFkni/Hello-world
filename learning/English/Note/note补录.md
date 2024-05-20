@@ -302,7 +302,7 @@ cry
 获得微薄的利润
 > reap thin profits
 	reap / make / gain
-	thin small meagre
+	thin / small / meagre
 
 谋取暴利，获得丰厚收益，巨额盈利
 > gain big / exorbitant / huge / colossal / windfall profits

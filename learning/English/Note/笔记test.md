@@ -22,16 +22,19 @@ pay heed to personal hygiene
 public utilities
 9、 **与国际接轨**
 align with the international standards 
+accord with the international practices
+in synchrony with the international norms
 10、 **按月分期付款**
 monthly installment payment 
+by monthly payments
 11、 **（买房的）首付款**
-
+a down payment on a house
 12、 **释放被压抑的怒气**
 give my pent-up anger an outlet
 13、 **谋取暴利**
 gain windfall profits
 14、 **获得微薄的利润**
-gain thin profits
+gain thin / meagre / small profits
 15、 **上网**
 gain / have access to WiFi
 16、 **慢性病**
@@ -43,7 +46,7 @@ curb the inflation
 19、 **老弱病残孕专座**
 priority seats for the old, the weak , the sick, the handicapped, and the pregnant
 20、 **优先发展基础设施**
-Top priority must be given to the development of infrastructure facilities
+top priority must be given to the development of infrastructure facilities
 21、 **加剧头疼**
 
 22、 **缓解头疼**

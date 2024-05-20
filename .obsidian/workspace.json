@@ -14,26 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "learning/English/Note/笔记test.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "67abaa0cb8c29e11",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b4fe9be03b5079ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning/English/Note/note补录.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
@@ -66,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "付款",
+                "query": "inflation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
