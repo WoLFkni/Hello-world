@@ -27,9 +27,9 @@ public utilities
 11、 **（买房的）首付款**
 
 12、 **释放被压抑的怒气**
-
+give my pent-up anger an outlet
 13、 **谋取暴利**
-gain exorbitant profits
+gain windfall profits
 14、 **获得微薄的利润**
 gain thin profits
 15、 **上网**

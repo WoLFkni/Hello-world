@@ -298,4 +298,18 @@ cry
 
 时事
 > the current events at home and broad
-> 
+
+获得微薄的利润
+> reap thin profits
+	reap / make / gain
+	thin small meagre
+
+谋取暴利，获得丰厚收益，巨额盈利
+> gain big / exorbitant / huge / colossal / windfall profits
+
+被压抑的
+> be bottled / be suppressed 
+	pent-up emotion 被压抑的感情
+
+分期付款
+> installment 

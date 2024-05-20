@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "67abaa0cb8c29e11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4fe9be03b5079ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/English/Note/note补录.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -48,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "exorbitant",
+                "query": "付款",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/English/Note/笔记test.md",
+                "file": "learning/English/Note/note补录.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning/English/Note/笔记test.md",
+                "file": "learning/English/Note/note补录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/English/Note/笔记test.md"
+                "file": "learning/English/Note/note补录.md"
               }
             }
           },
@@ -158,12 +176,12 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "f7c2daf3fb74f4e1",
+  "active": "b4fe9be03b5079ab",
   "lastOpenFiles": [
-    "learning/English/Note/structure.md",
     "learning/English/Note/笔记test.md",
-    "learning/English/Note/主语选择.md",
     "learning/English/Note/note补录.md",
+    "learning/English/Note/structure.md",
+    "learning/English/Note/主语选择.md",
     "learning/English/Note/笔记test 1.md",
     "learning/English/Note/翻译作业.md",
     "learning/English/Note/graph and drawing.md",
