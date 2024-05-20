@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "与国际接轨",
+                "query": "老弱病残孕专座",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,10 +158,11 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "f7c2daf3fb74f4e1",
+  "active": "c081ee39344ec602",
   "lastOpenFiles": [
     "learning/English/Note/主语选择.md",
     "learning/English/Note/笔记test.md",
+    "learning/English/Note/note补录.md",
     "learning/English/Note/structure.md",
     "learning/English/Note/笔记test 1.md",
     "learning/English/Note/翻译作业.md",
@@ -170,7 +171,6 @@
     "learning/English/错误翻译.md",
     "learning/English/Note/期中翻译句子.md",
     "learning/数电/note.md",
-    "learning/English/Note/note补录.md",
     "learning/English/Note/列表.md",
     "learning/English/Note/西湖醋鱼.md",
     "learning/English/Note/Dictation.md",

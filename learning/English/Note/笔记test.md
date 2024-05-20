@@ -13,7 +13,7 @@ trigger much controversy
 4、 **芳华，美妙的青春**
 
 5、 **尖端的科技**
-
+cutting-edge technology
 6、 **采取权宜之计**
 expedient measures
 7、 **讲究个人卫生**
@@ -35,11 +35,11 @@ international standard
 15、 **上网**
 
 16、 **慢性病**
-
+chronic diseases
 17、 **急性病**
-
+acute diseases
 18、 **遏制通货膨胀**
-
+curb the inflation
 19、 **老弱病残孕专座**
 
 20、 **优先发展基础设施**
