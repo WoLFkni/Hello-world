@@ -415,28 +415,28 @@ It was quoted as saying that the president of this scandal-ridden legislature wa
 		 impart / pass on / diffuse / disseminate knowledge 
 		 acquire / gain / pick up / accumulate knowledge
 
-### A no more ... than B / not A any more than B
+#### A no more ... than B / not A any more than B
 > A不怎么样，B也不怎么样
 	The heart is no more intelligent than the stomach, for they are both controlled by the brain.
 
-### A no more B than C (no more ) D
+#### A no more B than C (no more ) D
 > 正如C和D不怎么样，A和B也不怎么样
 	It may be that when his life at least comes to an end he will leave no more trace of his sojourn on earth than a stone thrown into a river leaves on the water.
 
-### as much A as B
+#### as much A as B
 > 既是，又是
 
-### no less than 
+#### no less than 
 > 和……一样
 	The life is no less empty than those 
 
-### not so much A as B
+#### not so much A as B
 与其……不如，不是……而是
-### just as ... so ...
+#### just as ... so ...
 > 正像A……，B也如此
 	As a saying goes," just as his name is, so is he". 人如其名
 
-### practice 
+#### practice 
 学好理工科不容易，学好文科也不容易。
 - It is not easy to be well-grounded in science and engineering any more than (it is) to **perform brilliantly in** / *excel in / at* liberal arts.
 	- Not A any more than B
@@ -521,3 +521,13 @@ penetrating 深刻的（？
 
 
 #### practice 
+他对人性的洞察力远不及你的敏锐和深刻。
+- His insight into human nature is nothing near as / so good / deep / as yours.
+	- nothing near as ... as ...
+
+gain deep insight into 
+perception of 
+
+这个消息对我而言简直是晴天霹雳，使我震惊得半天说不出话来。
+- This message was noti
+	- no less than
