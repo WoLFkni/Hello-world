@@ -383,7 +383,7 @@ It was quoted as saying that the president of this scandal-ridden legislature wa
 承受各种打击 take the slings of the arrow
 
 ## 比较结构
-特殊比较级结构
+### 特殊比较级结构
 1. [[#less A than B]]
 2. [[#more A than B]]
 3. [[#not A as much as B / less A than B|not A as much as B]]
@@ -395,20 +395,20 @@ It was quoted as saying that the president of this scandal-ridden legislature wa
 9. [[#not so much A as B]]
 10. [[#just as ... so ...]]
 
-### less A than B
+#### less A than B
 > 不是……而是……，与其……不如……
 
-### more A than B
+#### more A than B
 > A和B必须要有可比性：词性相同，结构相同（不定式-不定式，分词-分词）
 > 一方被肯定（A），一方被否定（B）
 > 与其说B，不如说A；不是B，而是A
 	Charles is more cautious than decisive.
 	果断不足，谨慎有余
 
-### not A as much as B / less A than B
+#### not A as much as B / less A than B
 > 不是……而是……，与其……不如……
 
-### not A any more than B / neither A nor B
+#### not A any more than B / neither A nor B
 > 既不是A，也不是B；A不怎么样，B也不怎么样
 	 It is not easy to impart knowledge any more than it is to acquire knowledge.
 	 教知识不容易，学知识也不容易。
@@ -540,4 +540,8 @@ a bolt from the blue to sb 晴天霹雳
 
 rascal / hooligan / scoundrel / rogue无赖
 
-## 
+## Integrated Practice 
+无论如何，我都不会相信他的甜言蜜语了。那只不过是他的一种鬼把戏而已。
+- In no case / under no circumstances / on no account / by no means / at no rate / in no events shall I take his honey words
+- 倒装结构(表否定意思的词提前，部分倒装：助动词/情态动词提前)
+- 强调比较级结构
