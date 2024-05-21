@@ -385,6 +385,10 @@ It was quoted as saying that the president of this scandal-ridden legislature wa
 ## 比较结构
 特殊比较级结构
 1. less A than B
+2. more A than B
+3. not A as much as B
+4. not A any more than B
+5. 
 
 ### less A than B
 > 不是……而是……，与其……不如……
@@ -396,4 +400,12 @@ It was quoted as saying that the president of this scandal-ridden legislature wa
 	Charles is more cautious than decisive.
 	果断不足，谨慎有余
 
-### n
+### not A as much as B / less A than B
+> 不是……而是……，与其……不如……
+
+### not A any more than B / neither A nor B
+> 既不是A，也不是B；A不怎么样，B也不怎么样
+	 It is not easy to impart knowledge any more than it is to acquire knowledge.
+	 教知识不容易，学知识也不容易。
+		 impart / pass on / diffuse / disseminate knowledge 
+		 acquire / gain / pick up / accumulate knowledge
