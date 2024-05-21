@@ -423,4 +423,15 @@ It was quoted as saying that the president of this scandal-ridden legislature wa
 
 ### no less than 
 > 和……一样
-the life is empty no less than 
+	The life is no less empty than those 
+
+### not so much A as B
+与其……不如，不是……而是
+### just as ... so ...
+> 正像A……，B也如此
+	As a saying goes," just as his name is, so is he". 人如其名
+
+### practice 
+学好理工科
+Not A any more than B
+A no more ... than B
