@@ -432,6 +432,10 @@ It was quoted as saying that the president of this scandal-ridden legislature wa
 	As a saying goes," just as his name is, so is he". 人如其名
 
 ### practice 
-学好理工科
+学好理工科不容易，学好文科也不容易。
+> It is not easy to be well-grounded in science and engineering any more than (it is) to **perform brilliantly in** / *excel in / at* liberal arts.
+> Having a good mastery of science and engineering is no easier than learning well liberal arts.
 Not A any more than B
 A no more ... than B
+science and engineering
+liberal arts
