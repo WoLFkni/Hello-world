@@ -464,10 +464,30 @@ preeminent / eminent / prominent / outstanding / top-notch 杰出的
 
 他的那番话，与其说是安慰我，还不如说是哄骗我们。
 - What he said less mollified than coaxed us.
-- What he said did not comfort as much as coax
-less A than B
-not so much A as B
-more A than B
+	- less A than B
+- What he said did not comfort as much as coax us.
+	- not so much A as B
+- What he said more coaxed us than mollified us.
+	- more A than B
 
 comfort / mollify / reassure sb 安慰
 coax / hoodwink / cajole sb 哄骗
+
+他有勇无谋
+He is more brave than wise.
+He is less wise than brave.
+He is not wise as much as brave.
+
+### 强调比较级
+1. more than + noun
+2. more than + adj.
+3. less than + adj.
+#### more than + n.
+不只是，何止是，岂止是
+
+#### more than + adj.
+十分，非常，很
+He is more than shrilled / excited / thrilled to come across such a gorgeous beauty.
+girl killer / boy killer (informal)
+
+#### less than + 
