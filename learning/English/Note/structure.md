@@ -4,7 +4,7 @@
 平行结构
 虚拟结构
 比较结构
-无人称结构
+[[#无人称结构]]
 
 ## 无人称结构
 1. It is +p.p. + that 
@@ -381,3 +381,5 @@ It is a truism that all media statements would fall flat / fall through as the n
 
 It was quoted as saying that the president of this scandal-ridden legislature was ready to take the slings of the arrow.
 承受各种打击 take the slings of the arrow
+
+## 比较结构

@@ -48,7 +48,7 @@ priority seats for the old, the weak , the sick, the handicapped, and the pregna
 20、 **优先发展基础设施**
 top priority must be given to the development of infrastructure facilities
 21、 **加剧头疼**
-
+aggravate the head ache
 22、 **缓解头疼**
 
 23、 **与****……****有天壤之别**
