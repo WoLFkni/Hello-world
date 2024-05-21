@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9a2e6090935e7e0c",
+        "id": "5a816969deeb9b5b",
         "type": "tabs",
         "children": [
           {
-            "id": "95e81c6724e32455",
+            "id": "b11ae0b416814ac0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -65,13 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 213.5,
-    "collapsed": true
+    "width": 213.5
   },
   "right": {
     "id": "f2318133a5c26801",
@@ -144,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5,
-    "collapsed": true
+    "width": 347.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,10 +156,11 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "95e81c6724e32455",
+  "active": "b11ae0b416814ac0",
   "lastOpenFiles": [
-    "无人称结构.md",
+    "less than + adj..md",
     "learning/English/Note/structure.md",
+    "无人称结构.md",
     "learning/English/Note/笔记test2.md",
     "learning/English/Note/note补录.md",
     "learning/English/Note/主语选择.md",
@@ -187,7 +185,6 @@
     "Diary/2024-05-07.md",
     "Diary/2024-05-04.md",
     "Diary/2024-05-01.md",
-    "Diary/2024-04-29.md",
     "Pasted image 20240429112338.png",
     "Pasted image 20240429112051.png",
     "Pasted image 20240429112041.png",

@@ -479,11 +479,16 @@ He is less wise than brave.
 He is not wise as much as brave.
 
 ### 强调比较级
-1. more than + noun
-2. more than + adj.
-3. less than + adj.
+1. [[#more than + n.]]
+2. [[#more than + adj.]]
+3. [[#less than + adj.]]
 4. [[#nothing more than]]
 5. [[#no more than]]
+6. [[#as good as / almost / nearly|as good as]]
+7. [[#little more than]]
+8. [[#nothing near as ... as ...]]
+9. [[#noting less than]]
+10. [[#never more than]]
 #### more than + n.
 不只是，何止是，岂止是
 
