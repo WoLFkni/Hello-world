@@ -529,7 +529,7 @@ gain deep insight into 对……有深刻的认知/洞察力
 perception of 
 
 这个消息对我而言简直是晴天霹雳，使我震惊得半天说不出话来。
-- This message was nothing less than a bolt from the blue to me, thus rendering me speechless for a long while.
+- This news was nothing less than a bolt from the blue to me, thus rendering me speechless for a long while.
 	- no less than
 
 a bolt from the blue to sb 晴天霹雳 
@@ -563,3 +563,11 @@ be despised / abhorred 被唾弃的
 	- 强调结构
 
 这条消息简直就是无稽之谈。
+- This news is little more than / ***nothing more than*** / no more than / never more than a sheer nonsense / a groundless talk!
+	- 强调比较级结构
+
+a sheer nonsense 无稽之谈
+
+他对这部文学巨著的解读远远不及他的老师解读得权威和到位。
+- His interpretation of the literary masterpiece is nothing near as good as his teacher's. 
+	- 强调比较级结构 nothing near as / so ... as ...
