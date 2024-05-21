@@ -525,9 +525,19 @@ penetrating 深刻的（？
 - His insight into human nature is nothing near as / so good / deep / as yours.
 	- nothing near as ... as ...
 
-gain deep insight into 
+gain deep insight into 对……有深刻的认知/洞察力
 perception of 
 
 这个消息对我而言简直是晴天霹雳，使我震惊得半天说不出话来。
-- This message was noti
+- This message was nothing less than a bolt from the blue to me, thus rendering me speechless for a long while.
 	- no less than
+
+a bolt from the blue to sb 晴天霹雳 
+
+他这个人擅长狡辩，经常混淆是非，颠倒黑白，简直就是无赖。
+- He was capable of word play to the point where he often identified truth with falsehood, so he was none other than a rascal / a hooligan / a scoundrel / a rogue. 
+	- no other than 
+
+rascal / hooligan / scoundrel / rogue无赖
+
+## 
