@@ -388,7 +388,7 @@ It was quoted as saying that the president of this scandal-ridden legislature wa
 2. more A than B
 3. not A as much as B
 4. not A any more than B
-5. 
+5. A no more ... than B
 
 ### less A than B
 > 不是……而是……，与其……不如……
@@ -433,21 +433,26 @@ It was quoted as saying that the president of this scandal-ridden legislature wa
 
 ### practice 
 学好理工科不容易，学好文科也不容易。
-It is not easy to be well-grounded in science and engineering any more than (it is) to **perform brilliantly in** / *excel in / at* liberal arts.
-Having a good mastery of science and engineering is no easier than learning well liberal arts.
+- It is not easy to be well-grounded in science and engineering any more than (it is) to **perform brilliantly in** / *excel in / at* liberal arts.
+	- Not A any more than B
 
+- Having a good mastery of science and engineering is no easier than learning well liberal arts.
+	- A no more ... than B
 
-- A no more ... than B
-- science and engineering 理工科
-- liberal arts 文科
+science and engineering 理工科
+liberal arts 文科
 
 这位总统任然像过去那样独裁和专制。
-The president is no less dictatorial than he used to be.
+- The president is no less dictatorial than he used to be.
+	- No less ... than ...
 
-No less ... than ...
 dictatorial / tyrannical / despotic  独裁的，专制的
 
 正如你不是以为杰出的学者一样，我也不是以为优秀的演员。
-Just as you are not an eminent scholar, so I am not a good actor.
-just as ... so ...
+- Just as you are not an eminent scholar, so I am not a good actor.
+	- just as ... so ...
+
 preeminent / eminent / prominent / outstanding / top-notch 杰出的
+
+- He is not a top-notch scholar any more than I am a good actor.
+	- not A any more than B
