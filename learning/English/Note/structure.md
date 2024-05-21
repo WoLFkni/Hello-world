@@ -551,6 +551,15 @@ rascal / hooligan / scoundrel / rogue无赖
 		- never more than
 
 由此可以看出，一个缺乏起码社会公德的人是不得人心的，其卑劣行径必将遭人唾弃。
-- It can be seen from this that he who lacks morality at the minimum is despi
+- It can be seen from this that he who lacks social morality at the minimum is despicable and his mean acts are to be despised / abhorred.
 	- 无人称结构
 		- It can be seen from this that  ...
+
+be despised / abhorred 被唾弃的
+
+正是船员的无比冷漠，使得原本不会淹死的同学失去了年轻的生命。
+- It was due to the sailor's apathy that the students who would not have drowned lost their lives.
+	- 虚拟结构
+	- 强调结构
+
+这条消息简直就是无稽之谈。
