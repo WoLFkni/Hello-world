@@ -389,11 +389,11 @@ It was quoted as saying that the president of this scandal-ridden legislature wa
 3. [[#not A as much as B / less A than B|not A as much as B]]
 4. [[#not A any more than B / neither A nor B|not A any more than B]]
 5. [[#A no more ... than B / not A any more than B|A no more ... than B]]
-6. [[#|A no more B than C (no more ) D]]
-7. as much A as B
-8. no less than
-9. not so much A as B
-10. just as ... so ...
+6. [[#A no more B than C (no more ) D]]
+7. [[#as much A as B]]
+8. [[#no less than]]
+9. [[#not so much A as B]]
+10. [[#just as ... so ...]]
 
 ### less A than B
 > 不是……而是……，与其……不如……
@@ -457,7 +457,17 @@ dictatorial / tyrannical / despotic  独裁的，专制的
 - Just as you are not an eminent scholar, so I am not a good actor.
 	- just as ... so ...
 
-preeminent / eminent / prominent / outstanding / top-notch 杰出的
-
 - He is not a top-notch scholar any more than I am a good actor.
 	- not A any more than B
+
+preeminent / eminent / prominent / outstanding / top-notch 杰出的
+
+他的那番话，与其说是安慰我，还不如说是哄骗我们。
+- What he said less mollified than coaxed us.
+- What he said did not comfort as much as coax
+less A than B
+not so much A as B
+more A than B
+
+comfort / mollify / reassure sb 安慰
+coax / hoodwink / cajole sb 哄骗
