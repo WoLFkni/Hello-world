@@ -409,3 +409,18 @@ It was quoted as saying that the president of this scandal-ridden legislature wa
 	 教知识不容易，学知识也不容易。
 		 impart / pass on / diffuse / disseminate knowledge 
 		 acquire / gain / pick up / accumulate knowledge
+
+### A no more ... than B / not A any more than B
+> A不怎么样，B也不怎么样
+	The heart is no more intelligent than the stomach, for they are both controlled by the brain.
+
+### A no more B than C (no more ) D
+> 正如C和D不怎么样，A和B也不怎么样
+	It may be that when his life at least comes to an end he will leave no more  trace of his sojourn on earth than a stone thrown into a river leaves on the water.
+
+### as much A as B
+> 既是，又是
+
+### no less than 
+> 和……一样
+the life is empty no less than 
