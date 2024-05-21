@@ -576,3 +576,5 @@ a sheer nonsense 无稽之谈
 他对这部文学巨著的解读远远不及他的老师解读得权威和到位。
 - His interpretation of the literary masterpiece is nothing near as good as his teacher's. 
 	- 强调比较级结构 nothing near as / so ... as ...
+
+### homework practice
