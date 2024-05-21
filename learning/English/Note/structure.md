@@ -482,6 +482,8 @@ He is not wise as much as brave.
 1. more than + noun
 2. more than + adj.
 3. less than + adj.
+4. [[#nothing more than]]
+5. [[#no more than]]
 #### more than + n.
 不只是，何止是，岂止是
 
@@ -490,4 +492,32 @@ He is not wise as much as brave.
 He is more than shrilled / excited / thrilled to come across such a gorgeous beauty.
 girl killer / boy killer (informal)
 
-#### less than + 
+#### less than + adj.
+不，不是，没有（加强否定语气）
+
+#### nothing more than
+简直是，就是
+The plan is noting more than a castle in the air.
+
+#### no more than  
+只不过是，仅仅是
+The university authority did no more than 
+
+#### as good as / almost / nearly
+几乎
+She was as good as dead after the final exam.
+
+#### little more than 
+只是，不过是，仅仅是
+
+#### nothing near as ... as ...
+远远不像……那样……
+penetrating 深刻的（？
+
+#### noting less than 
+不亚于，简直是
+
+#### never more than 
+
+
+#### practice 
