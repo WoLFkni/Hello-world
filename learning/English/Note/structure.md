@@ -1,4 +1,4 @@
-# 七大高频句法结构
+# 六大高频句法结构
 强调结构
 倒装结构
 平行结构
@@ -542,6 +542,15 @@ rascal / hooligan / scoundrel / rogue无赖
 
 ## Integrated Practice 
 无论如何，我都不会相信他的甜言蜜语了。那只不过是他的一种鬼把戏而已。
-- In no case / under no circumstances / on no account / by no means / at no rate / in no events shall I take his honey words
-- 倒装结构(表否定意思的词提前，部分倒装：助动词/情态动词提前)
-- 强调比较级结构
+- In no case / Under no circumstances / On no account / By no means / At no rate / In no events shall I take his honey words. After all, what he said was little more than his trick.
+	- 倒装结构(表否定意思的词提前，部分倒装：助动词/情态动词提前)
+	- 强调比较级结构
+		- little more than 
+		- no more than
+		- nothing more than 
+		- never more than
+
+由此可以看出，一个缺乏起码社会公德的人是不得人心的，其卑劣行径必将遭人唾弃。
+- It can be seen from this that he who lacks morality at the minimum is despi
+	- 无人称结构
+		- It can be seen from this that  ...
