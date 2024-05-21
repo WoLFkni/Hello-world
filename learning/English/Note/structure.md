@@ -3,13 +3,13 @@
 倒装结构
 平行结构
 虚拟结构
-比较结构
+[[#比较结构]]
 [[#无人称结构]]
 
 ## 无人称结构
-1. It is +p.p. + that 
-2. It is + adj. + that clause
-3. It is  noun + that clause
+1. [[#It is + p.p. (过去分词)+ that clause|It is +p.p. + that]] 
+2. [[#It is +adj. + that clause|It is + adj. + that clause]]
+3. [[#It is + noun + that|It is  noun + that clause]]
 ### It is + p.p. (过去分词)+ that clause
 > 据报道
 	It is quoted as saying that ...
@@ -384,11 +384,16 @@ It was quoted as saying that the president of this scandal-ridden legislature wa
 
 ## 比较结构
 特殊比较级结构
-1. less A than B
-2. more A than B
-3. not A as much as B
-4. not A any more than B
-5. A no more ... than B
+1. [[#less A than B]]
+2. [[#more A than B]]
+3. [[#not A as much as B / less A than B|not A as much as B]]
+4. [[#not A any more than B / neither A nor B|not A any more than B]]
+5. [[#A no more ... than B / not A any more than B|A no more ... than B]]
+6. [[#|A no more B than C (no more ) D]]
+7. as much A as B
+8. no less than
+9. not so much A as B
+10. just as ... so ...
 
 ### less A than B
 > 不是……而是……，与其……不如……
@@ -416,7 +421,7 @@ It was quoted as saying that the president of this scandal-ridden legislature wa
 
 ### A no more B than C (no more ) D
 > 正如C和D不怎么样，A和B也不怎么样
-	It may be that when his life at least comes to an end he will leave no more  trace of his sojourn on earth than a stone thrown into a river leaves on the water.
+	It may be that when his life at least comes to an end he will leave no more trace of his sojourn on earth than a stone thrown into a river leaves on the water.
 
 ### as much A as B
 > 既是，又是
