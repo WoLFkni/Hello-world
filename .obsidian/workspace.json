@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "世纪末",
+                "query": "practi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,7 +157,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "b11ae0b416814ac0",
+  "active": "f7c2daf3fb74f4e1",
   "lastOpenFiles": [
     "learning/English/Note/主语选择.md",
     "learning/English/Note/structure.md",
