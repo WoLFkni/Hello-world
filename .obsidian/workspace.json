@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "learning/English/Note/笔记test.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inflation",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,7 +158,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "c081ee39344ec602",
+  "active": "f7c2daf3fb74f4e1",
   "lastOpenFiles": [
     "learning/English/Note/note补录.md",
     "learning/English/Note/笔记test.md",
