@@ -383,3 +383,17 @@ It was quoted as saying that the president of this scandal-ridden legislature wa
 承受各种打击 take the slings of the arrow
 
 ## 比较结构
+特殊比较级结构
+1. less A than B
+
+### less A than B
+> 不是……而是……，与其……不如……
+
+### more A than B
+> A和B必须要有可比性：词性相同，结构相同（不定式-不定式，分词-分词）
+> 一方被肯定（A），一方被否定（B）
+> 与其说B，不如说A；不是B，而是A
+	Charles is more cautious than decisive.
+	果断不足，谨慎有余
+
+### n
