@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 213.5,
+    "collapsed": true
   },
   "right": {
     "id": "f2318133a5c26801",
@@ -142,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 347.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,7 +158,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "b11ae0b416814ac0",
+  "active": "863e42d8ced0f164",
   "lastOpenFiles": [
     "learning/English/Note/structure.md",
     "learning/English/Note/recommended homework.md",
