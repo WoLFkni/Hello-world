@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "learning/cs/description.md",
-                "mode": "preview",
-                "source": false
+                "mode": "source",
+                "source": true
               }
             }
           }
