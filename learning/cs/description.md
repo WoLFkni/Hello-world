@@ -1,7 +1,5 @@
 # Mages & Goblins
 
-[toc]
-
 ## 基本介绍
 
 `Mages&Goblins`是一个回合制战棋类游戏。在`M x N`的战场(`Field`)上（`M`为战场高度，`N`为战场宽度），玩家控制法师（Mages）通过移动、攻击和释放法术来消灭敌方的哥布林（Goblins）单位。如果玩家成功消灭了所有的敌方哥布林则玩家获胜，否则失败。哥布林的行动将由AI控制。
@@ -105,56 +103,9 @@ R C PG D L
 
 哥布林的视野覆盖范围直观上可以理解为上图中的菱形区域，严格的定义为：对于哥布林的坐标`(r,c)`，它的视野范围为`s`的区域中的所有点（用`(x,y`表示）需要满足`abs(r-x)+abs(c-y) <= s`，`abs`为取绝对值函数。
 
-**注意：**一种特殊情况是哥布林的视野范围内的最近玩家单位有多个，即它们的最短距离都相同，这时候需要使用`algorithm.h`中提供的对坐标的排序函数`coordOrder`：
-
-```C++
-bool coordOrder(int row1, int col1, int row2, int col2);
-```
-
-对于两个坐标分别为`(row1,col1)`和`(row2,col2)`，`coordOrder(row1,col1,row2,col2)`返回true当且仅当`row1<row2`或者`row1==row2 && col1<col2`，我们称`(row1,col1)`在坐标偏序上比`(row2,col2)`小。当有多个最近玩家时，我们选择坐标偏序最小的玩家单位。我们以下面的例子为了，哥布林的视野为3，视野范围内的玩家有`(3,0)`和`(3,6)`，并且他们的最近距离都是3，哥布林会选择走向`(3,0)`因为`(3,0)`的坐标偏序比`(3,6)`小。
-
-<div>
-    <center>
-      <img src="pic/track4.png" style="zoom:40%;" />
-       <img src="pic/track5.png" style="zoom:40%;" />
-    <br>
-  </center>
-</div>
+对于两个坐标分别为`(row1,col1)`和`(row2,col2)`，`coordOrder(row1,col1,row2,col2)`返回true当且仅当`row1<row2`或者`row1==row2 && col1<col2`，我们称`(row1,col1)`在坐标偏序上比`(row2,col2)`小。当有多个最近玩家时，我们选择坐标偏序最小的玩家单位。
 
 <div style="page-break-after:always"></div>
-
-## 调试游戏
-
-为调试游戏，你首先需要准备好一个地图，使用`loadMap`装载生成一个战场，然后在标准输入端输入命令，观察输出端的结果。主函数的示例结构如下：
-
-```c++
-int main()
-{
-    string filename = "map.txt";
-    ifstream ifs;
-    ifs.open(filename.c_str());
-    if (!ifs) {
-        cout << "Cannot open the file: " << filename << endl;
-        return -1;
-    }
-
-	Vector<Unit*> units;
-    Field* f = loadMap(ifs);
-    if (f == NULL) {
-        cout << "Failed to load map!" << endl;
-        return -1;
-    }
-    play(*f, cin, cout，units);
-
-    delete f;
-    for (int i = 0; i < units.size(); i++) {delete units[i];}
-    
-    ifs.close();
-    return 0;
-}
-```
-
-初始代码中已经准备好了3张测试地图（`map1.txt`，`map2.txt`和`map3.txt`）。你也可以设计自己的地图用于调试。
 
 ## 测试游戏
 
@@ -202,8 +153,7 @@ python judger.py
 * `demo1.exe`从`map.txt`中读取地图文件，然后和用户通过**标准输入输出**进行交互。
 * `demo2.exe`从`1.in`中读取地图文件和所有用户输入，将结果输出到`1.out`。
 
-前者用来做交互测试，后者用来做文件输入输出的对比测试。此外，调用demo时加上参数`-D`，将进入Debug模式，会显示更多信息。具体使用方式为在`demo`文件夹下打开命令行并执行`.exe`文件即可，如图所示：
-![demo.png](demo.png)
+前者用来做交互测试，后者用来做文件输入输出的对比测试。此外，调用demo时加上参数`-D`，将进入Debug模式，会显示更多信息。具体使用方式为在`demo`文件夹下打开命令行并执行`.exe`文件即可。
 
 ## 测试案例中程序终止的规范
 在交互式游玩（通过`cin`和`cout`执行）时程序只会在一方单位被完全消灭时终止。但在使用案例进行测试时可能出现因为输入流结束而终止的情况，为了在这种情况下你的程序行为和参考程序一致，请不要更改我们在`engine.cpp`中给出的`play`函数中的基本结构：
