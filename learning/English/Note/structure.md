@@ -654,4 +654,4 @@ A solid majority of students sighed with a relief and said," To imagine what a m
 - minority ethnic group 少数民族
 - Let us be majority! 少数服从多数。
 - a miserable failure / a lamentable failure / a disastrous failure / a utter failure / a pathetic failure / a humiliating failure / a disgraceful failure / a gnawing failure 惨败
-- 
+- a remarkable success / a commendable success / a stunning success / an admirable success / a raging success 获得巨大成功
