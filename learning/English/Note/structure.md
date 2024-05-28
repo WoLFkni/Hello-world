@@ -682,11 +682,17 @@ It can be virtually guaranteed that students would sit on his recommended homewo
 - naive / gullible 天真的
 - a tiny few 非常少的
 
-The English articles, extracted from some main-stream media in the UK and US. came with his high recommendation in the Wechat. Natural, lively and really earthbound, those news reports range widely. Isn't it a big waste if students just sit on them and just let it go away with an incessant influx of information.
+The English articles, extracted from some main-stream media in the UK and US, came with his high recommendation in the Wechat. Natural, lively and really earthbound, those news reports range widely. Isn't it a big waste if students just sit on them and just let it go away with an incessant influx of information.
 
 - lively / vivacious 生动的
 - earthbound 接地气的
 - sleep on sth / sit on sth 置之不理
 - an incessant influx of information 大量信息
 - oodles of data 大量的数据
+- a hefty amount of money 大量的金钱
+- a prodigious waste of food 惊人的浪费，大量的浪费
+
+It is a shared understanding that singing can not be learned well without passion any more than English, be it linguistically or culturally, can be acquired without painstaking efforts.
+> not A any more than B A不……，B也不……
+- It is a shared understanding that…… / it is common knowledge that…… / it is general knowledge that……  …… 是共识
 - 
