@@ -578,4 +578,7 @@ a sheer nonsense 无稽之谈
 - His interpretation of the literary masterpiece is nothing near as good as his teacher's. 
 	- 强调比较级结构 nothing near as / so ... as ...
 
-### homework practice
+## the emphatic structure
+It is + stressed part + that / who + ...
+sth `->` that
+sb `->` who

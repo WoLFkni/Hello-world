@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/English/Note/note补录.md",
-                "mode": "preview",
+                "file": "learning/English/Note/structure.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "通货",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 213.5,
+    "collapsed": true
   },
   "right": {
     "id": "f2318133a5c26801",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/English/Note/note补录.md",
+                "file": "learning/English/Note/structure.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning/English/Note/note补录.md",
+                "file": "learning/English/Note/structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/English/Note/note补录.md"
+                "file": "learning/English/Note/structure.md"
               }
             }
           },
@@ -143,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5,
-    "collapsed": true
+    "width": 347.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,6 +159,7 @@
   },
   "active": "b11ae0b416814ac0",
   "lastOpenFiles": [
+    "learning/English/Note/note补录.md",
     "learning/cs/description.md",
     "learning/English/Note/recommended homework.md",
     "learning/English/Note/structure.md",
@@ -167,7 +167,6 @@
     "less than + adj..md",
     "无人称结构.md",
     "learning/English/Note/笔记test2.md",
-    "learning/English/Note/note补录.md",
     "learning/English/Note/笔记test 1.md",
     "learning/English/Note/翻译作业.md",
     "learning/English/Note/graph and drawing.md",
