@@ -680,4 +680,13 @@ It can be virtually guaranteed that students would sit on his recommended homewo
 - nonetheless / nevertheless / notwithstanding 然而，可是
 - take entertainment from / take delight in / derive fun from 以此为乐，乐此不疲
 - naive / gullible 天真的
+- a tiny few 非常少的
+
+The English articles, extracted from some main-stream media in the UK and US. came with his high recommendation in the Wechat. Natural, lively and really earthbound, those news reports range widely. Isn't it a big waste if students just sit on them and just let it go away with an incessant influx of information.
+
+- lively / vivacious 生动的
+- earthbound 接地气的
+- sleep on sth / sit on sth 置之不理
+- an incessant influx of information 大量信息
+- oodles of data 大量的数据
 - 
