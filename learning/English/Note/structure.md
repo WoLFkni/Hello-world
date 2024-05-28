@@ -673,4 +673,11 @@ He would read with gusto the students' course feedbacks when he was accessible t
 - spark sth. in sb. 激发某人的……
 - inculcate sth in sb 谆谆教导，灌输，教导某人某事
 
-It can be virtually guaranteed that students would sit on his recommended homework. Nevertheless, he would still take entertainment from searching for learning resources and making exercise 
+It can be virtually guaranteed that students would sit on his recommended homework. Nevertheless, he would still take entertainment from searching for learning resources and making exercises. Sometimes he was no naive as to think that his students were reading with enthusiasm the English articles, which was authentic and entertainment, that he recommended in the Wechat.
+
+- It can be virtually asserted that / guaranteed that 几乎可以断言的是
+- sit on sth / brush sth aside 对……置之不理，搁在一遍，不理睬
+- nonetheless / nevertheless / notwithstanding 然而，可是
+- take entertainment from / take delight in / derive fun from 以此为乐，乐此不疲
+- naive / gullible 天真的
+- 
