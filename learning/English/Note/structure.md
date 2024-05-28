@@ -594,4 +594,15 @@ I did tell you about it.
 ### practice
 It was due to his persistent effort that he was admitted to Harvard University in the end.
 
-due to / owing to / by virtue of / on the strength of / on account of / on the grounds of / as the result of 由于
+- due to / owing to / by virtue of / on the strength of / on account of / on the grounds of / as the result of 由于
+- persistent effort / relentless effort / unrelenting effort / unswerving effort / ceaseless effort / unremitting effort / unyielding effort 不懈的努力
+- be enrolled in / be admitted to / be accepted by 被录取
+
+## Inversion 
+Partial inversion 部分倒装
+Full inversion 全倒装
+### Partial inversion
+### Full inversion
+
+### Practice
+直到20世纪末，香港才摆脱了英国的殖民枷锁，回到了祖国的怀抱。
