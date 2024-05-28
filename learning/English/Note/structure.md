@@ -546,38 +546,6 @@ a bolt from the blue to sb 晴天霹雳
 
 rascal / hooligan / scoundrel / rogue无赖
 
-## Integrated Practice 
-无论如何，我都不会相信他的甜言蜜语了。那只不过是他的一种鬼把戏而已。
-- In no case / Under no circumstances / On no account / By no means / At no rate / In no events shall I take his honey words. After all, what he said was little more than his trick.
-	- 倒装结构(表否定意思的词提前，部分倒装：助动词/情态动词提前)
-	- 强调比较级结构
-		- little more than 
-		- no more than
-		- nothing more than 
-		- never more than
-
-由此可以看出，一个缺乏起码社会公德的人是不得人心的，其卑劣行径必将遭人唾弃。
-- It can be seen from this that he who lacks social morality at the minimum is despicable and his mean acts are to be despised / abhorred.
-	- 无人称结构
-		- It can be seen from this that  ...
-
-be despised / abhorred 被唾弃的
-
-正是船员的无比冷漠，使得原本不会淹死的同学失去了年轻的生命。
-- It was due to the sailor's apathy that the students who would not have drowned lost their lives.
-	- 虚拟结构
-	- 强调结构
-
-这条消息简直就是无稽之谈。
-- This news is little more than / ***nothing more than*** / no more than / never more than a sheer nonsense / a groundless talk!
-	- 强调比较级结构
-
-a sheer nonsense 无稽之谈
-
-他对这部文学巨著的解读远远不及他的老师解读得权威和到位。
-- His interpretation of the literary masterpiece is nothing near as good as his teacher's. 
-	- 强调比较级结构 nothing near as / so ... as ...
-
 ## the emphatic structure
 It is + stressed part + that / who + ...
 do / did / does
@@ -635,5 +603,47 @@ Gone are the days when China suffered untold sufferings for her poverty and back
 A, B and C
 三大条件 meet 3 requirement：
 1. the same word class
-2. the same grammatical 
+2. the same grammatical structure
 3. the same number of words
+
+### practice
+对于一个工程师而言，重要的是逻辑要缜密，分析要细致，决定要有可行性。
+To an engineer, it is important that he has a good logic, make thorough analyses, and make feasible decisions.
+- make a sober analysis 冷静地分析
+- make viable / feasible decisions 做出可行的决定
+
+
+## Integrated Practice 
+无论如何，我都不会相信他的甜言蜜语了。那只不过是他的一种鬼把戏而已。
+- In no case / Under no circumstances / On no account / By no means / At no rate / In no events shall I take his honey words. After all, what he said was little more than his trick.
+	- 倒装结构(表否定意思的词提前，部分倒装：助动词/情态动词提前)
+	- 强调比较级结构
+		- little more than 
+		- no more than
+		- nothing more than 
+		- never more than
+
+由此可以看出，一个缺乏起码社会公德的人是不得人心的，其卑劣行径必将遭人唾弃。
+- It can be seen from this that he who lacks social morality at the minimum is despicable and his mean acts are to be despised / abhorred.
+	- 无人称结构
+		- It can be seen from this that  ...
+
+be despised / abhorred 被唾弃的
+
+正是船员的无比冷漠，使得原本不会淹死的同学失去了年轻的生命。
+- It was due to the sailor's apathy that the students who would not have drowned lost their lives.
+	- 虚拟结构
+	- 强调结构
+
+这条消息简直就是无稽之谈。
+- This news is little more than / ***nothing more than*** / no more than / never more than a sheer nonsense / a groundless talk!
+	- 强调比较级结构
+
+a sheer nonsense 无稽之谈
+
+他对这部文学巨著的解读远远不及他的老师解读得权威和到位。
+- His interpretation of the literary masterpiece is nothing near as good as his teacher's. 
+	- 强调比较级结构 nothing near as / so ... as ...
+
+绝大多数
+A solid majority of students sighed with a relief and said," To imagine what a miserable failure we
