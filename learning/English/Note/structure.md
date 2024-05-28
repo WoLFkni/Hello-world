@@ -615,4 +615,8 @@ It was not until the late 20th century did Hong Kong shake off the yoke of the B
 - the Opium war in 1840 第一次鸦片战争
 	- After the Opium war in 1840, China was gradually reduced to a semi-colonial and semi-feudal society. 第一次鸦片战争之后，中国逐渐沦为半殖民地半封建社会。
 
-Only with persistent effort 
+只有锲而不舍地迎难而上，研究人员才能最终找到解决这种不治之症地治疗方法
+Only with persistent efforts to rise up to the challenges can the research team find out the cure for this seemingly incurable disease.
+> Only + 状语（副词，介词短语，状语从句） 要部分倒装
+> Only 不加状语不用倒装
+- rise up to the challenges / meet the challenges / embrace the chall
