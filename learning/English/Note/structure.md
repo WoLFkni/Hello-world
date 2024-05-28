@@ -646,4 +646,11 @@ a sheer nonsense 无稽之谈
 	- 强调比较级结构 nothing near as / so ... as ...
 
 绝大多数
-A solid majority of students sighed with a relief and said," To imagine what a miserable failure we
+A solid majority of students sighed with a relief and said," To imagine what a miserable failure we might have had not cancelled the test of the past 13-week-long 
+> implied subjunctive mood 
+> 主句：would / might  have done
+> 从句：Had + 过分
+- a solid / an overriding / a vast / a significant / an overwhelming majority of
+- minority ethnic group 少数民族
+- Let us be majority! 少数服从多数。
+- 
