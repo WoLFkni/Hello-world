@@ -656,8 +656,11 @@ A solid majority of students sighed with a relief and said," To imagine what a m
 - a miserable failure / a lamentable failure / a disastrous failure / a utter failure / a pathetic failure / a humiliating failure / a disgraceful failure / a gnawing failure 惨败
 - a remarkable success / a commendable success / a stunning success / an admirable success / a raging success 获得巨大成功
 
-Taking into account the fact that a good many students are tired of doing too much homework, he was decisive and resolute enough to take a plethora of feasible measure in order to substantially reduce the after-class assignments. Later, it has turned out that this reform was well-received by his students.
+Taking into account the fact that a good many students are tired of doing too much homework, he was decisive and resolute enough to take a plethora of feasible measure in an effort to substantially reduce the after-class assignments. Later, it has turned out that this reform was well-received by his students.
 > 倒垃圾原则Taking into account the fact that (垃圾筐)
 - be weary of / be tired of / be fed up with 厌倦，不喜欢
 - a plethora measures 一系列措施
-	- SJTU boasts a legion of top-nortch exp
+	- SJTU boasts a legion of top-notch experts.
+- in an effort to do sth / in a bid to do / with a view to doing / in an attempt to do / seeking to do 
+- substantially / sharply / dramatically 大幅度地，实质性地
+- 

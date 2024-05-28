@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "以便",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,11 +161,11 @@
   },
   "active": "b11ae0b416814ac0",
   "lastOpenFiles": [
-    "learning/English/Note/笔记test2.md",
+    "learning/English/Note/主语选择.md",
     "learning/English/Note/structure.md",
+    "learning/English/Note/笔记test2.md",
     "learning/English/Note/笔记test 1.md",
     "learning/English/Note/note补录.md",
-    "learning/English/Note/主语选择.md",
     "learning/cs/description.md",
     "learning/English/Note/recommended homework.md",
     "less than + adj..md",
