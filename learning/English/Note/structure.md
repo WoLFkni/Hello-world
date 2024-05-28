@@ -695,4 +695,10 @@ The English articles, extracted from some main-stream media in the UK and US, ca
 It is a shared understanding that singing can not be learned well without passion any more than English, be it linguistically or culturally, can be acquired without painstaking efforts.
 > not A any more than B A不……，B也不……
 - It is a shared understanding that…… / it is common knowledge that…… / it is general knowledge that……  …… 是共识
-- 
+- be it A or B 不论……还是……，要么……要么……，或者……或者……
+	- whether it should be A or B
+
+After the discussion with my teacher, it dawned on me that college English teaching is aimed at improving college students' overall competence in listening, speaking, reading, writing and translating. It also went a long way towards expanding global vision and honing their skills in cross-cultural communitcation.
+
+- It dawned on me that / It sank in to me that 恍然大悟，茅塞顿开
+- go a long way towards sth 有助于……
