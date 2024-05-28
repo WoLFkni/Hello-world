@@ -658,9 +658,14 @@ A solid majority of students sighed with a relief and said," To imagine what a m
 
 Taking into account the fact that a good many students are tired of doing too much homework, he was decisive and resolute enough to take a plethora of feasible measure in an effort to substantially reduce the after-class assignments. Later, it has turned out that this reform was well-received by his students.
 > 倒垃圾原则Taking into account the fact that (垃圾筐)
+> 没有用到七大结构
 - be weary of / be tired of / be fed up with 厌倦，不喜欢
 - a plethora measures 一系列措施
 	- SJTU boasts a legion of top-notch experts.
-- in an effort to do sth / in a bid to do / with a view to doing / in an attempt to do / seeking to do 
-- substantially / sharply / dramatically 大幅度地，实质性地
-- 
+- in an effort to do sth / in a bid to do / with a view to doing / in an attempt to do / seeking to do 以便，为了
+- substantially / sharply / dramatically / by a wide margin / by leaps and bounds 大幅度地，实质性地
+- be well-received by / be highly acclaimed by 受到欢迎，深受喜欢
+
+He would read with gusto the students' course feedbacks when he was accessible to them. It was due to his earnest reading that he could reflect deeply on the gains and losses in his teaching. As a result, he succeeded in deepening the 
+
+- read sth with enthusiasm / read sth with gusto 津津有味地阅读
