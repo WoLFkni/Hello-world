@@ -625,4 +625,15 @@ Only with persistent efforts to rise up to the challenges can the research team 
 - incurable disease / deadly disease / fatal disease / lethal disease 不治之症，绝症
 
 田野间星星点点散落着的是一片片的野花，微风吹过，频频颔首。
-Scattering across the fields are wild flowers, nodding increasingly 
+Scattering across the fields are wild flowers, nodding incessantly in the breeze.
+> 主系表倒装（表语+be+主语）
+
+Gone are the days when China suffered untold sufferings for her poverty and backwardness.
+> End-focus 末尾聚焦原则，尾重原则
+
+## parallel structure 
+A, B and C
+三大条件 meet 3 requirement：
+1. the same word class
+2. the same grammatical 
+3. the same number of words
