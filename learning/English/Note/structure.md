@@ -666,6 +666,11 @@ Taking into account the fact that a good many students are tired of doing too mu
 - substantially / sharply / dramatically / by a wide margin / by leaps and bounds 大幅度地，实质性地
 - be well-received by / be highly acclaimed by 受到欢迎，深受喜欢
 
-He would read with gusto the students' course feedbacks when he was accessible to them. It was due to his earnest reading that he could reflect deeply on the gains and losses in his teaching. As a result, he succeeded in deepening the 
-
+He would read with gusto the students' course feedbacks when he was accessible to them. It was due to his earnest reading that he could reflect deeply on the gains and losses in his teaching. As a result, he succeeded in deepening the students' involvement in his classroom teaching and in sparking unceasing passion for learning English in his students.
+> 强调
 - read sth with enthusiasm / read sth with gusto 津津有味地阅读
+- reflect on 反思
+- spark sth. in sb. 激发某人的……
+- inculcate sth in sb 谆谆教导，灌输，教导某人某事
+
+It can be virtually guaranteed that students would sit on his recommended homework. Nevertheless, he would still take entertainment from searching for learning resources and making exercise 
