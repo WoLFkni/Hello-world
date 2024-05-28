@@ -606,3 +606,13 @@ Full inversion 全倒装
 
 ### Practice
 直到20世纪末，香港才摆脱了英国的殖民枷锁，回到了祖国的怀抱。
+It was not until the late 20th century when Hong Kong shook off the yoke of the British colonial rule that she returned to her motherland.
+> 强调
+
+It was not until the late 20th century did Hong Kong shake off the yoke of the British colonial rule that she returned to her motherland.
+> 强调+倒装
+- shake off poverty and embark on prosperity脱贫致富
+- the Opium war in 1840 第一次鸦片战争
+	- After the Opium war in 1840, China was gradually reduced to a semi-colonial and semi-feudal society. 第一次鸦片战争之后，中国逐渐沦为半殖民地半封建社会。
+
+Only with persistent effort 
