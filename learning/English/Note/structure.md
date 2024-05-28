@@ -619,4 +619,10 @@ It was not until the late 20th century did Hong Kong shake off the yoke of the B
 Only with persistent efforts to rise up to the challenges can the research team find out the cure for this seemingly incurable disease.
 > Only + 状语（副词，介词短语，状语从句） 要部分倒装
 > Only 不加状语不用倒装
-- rise up to the challenges / meet the challenges / embrace the chall
+- rise up to the challenges / meet the challenges / embrace the challenges / address the challenges 迎接挑战
+- daunting / formidable challenges 巨大的挑战
+- the cure for ……的治疗方法
+- incurable disease / deadly disease / fatal disease / lethal disease 不治之症，绝症
+
+田野间星星点点散落着的是一片片的野花，微风吹过，频频颔首。
+Scattering across the fields are wild flowers, nodding increasingly 
