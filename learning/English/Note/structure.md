@@ -580,5 +580,18 @@ a sheer nonsense 无稽之谈
 
 ## the emphatic structure
 It is + stressed part + that / who + ...
+do / did / does
+
+### It is + stressed part + that / who + ...
 sth `->` that
 sb `->` who
+可强调：subject / object / adverbial
+
+### do / did / does
+I did tell you about it.
+可强调：predicate
+
+### practice
+It was due to his persistent effort that he was admitted to Harvard University in the end.
+
+due to / owing to / by virtue of / on the strength of / on account of / on the grounds of / as the result of 由于
