@@ -698,7 +698,15 @@ It is a shared understanding that singing can not be learned well without passio
 - be it A or B 不论……还是……，要么……要么……，或者……或者……
 	- whether it should be A or B
 
-After the discussion with my teacher, it dawned on me that college English teaching is aimed at improving college students' overall competence in listening, speaking, reading, writing and translating. It also went a long way towards expanding global vision and honing their skills in cross-cultural communitcation.
+After the discussion with my teacher, it dawned on me that college English teaching is aimed at improving college students' overall competence in listening, speaking, reading, writing and translating. It also went a long way towards expanding global vision and honing their skills in cross-cultural communication.
 
 - It dawned on me that / It sank in to me that 恍然大悟，茅塞顿开
 - go a long way towards sth 有助于……
+- hone one's skill 提高某人的能力，磨练某人的技能
+
+Admittedly, it is difficult to cater for all taste considering the fact that college students differ sharply in their language competence and needs. However, it is swidely held that gearing teaching activities of most 
+
+- Admittedly, = it must be admitted that 
+- it is difficult to cater for all taste 众口难调
+- gear sth to sth 
+- be a good practice 是一种很好的做法
