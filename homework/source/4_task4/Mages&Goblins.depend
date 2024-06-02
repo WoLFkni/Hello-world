@@ -1,0 +1,276 @@
+# depslib dependency file v1.0
+1715606374 source:d:\study\2024cpp\final_design\cs1604-assignments\2024\final\judger_student\mages&goblins\algorithms.cpp
+	"algorithms.h"
+	<Vector.h>
+	<Grid.h>
+	<cassert>
+	<Queue.h>
+
+1715606374 d:\study\2024cpp\final_design\cs1604-assignments\2024\final\judger_student\mages&goblins\algorithms.h
+	<Grid.h>
+	<Vector.h>
+	"field.h"
+
+1715652682 d:\study\2024cpp\final_design\cs1604-assignments\2024\final\judger_student\mages&goblins\field.h
+	<ostream>
+	<Grid.h>
+
+1715653341 source:d:\study\2024cpp\final_design\cs1604-assignments\2024\final\judger_student\mages&goblins\engine.cpp
+	<sstream>
+	<iomanip>
+	<cassert>
+	<Queue.h>
+	"engine.h"
+	"units.h"
+	"vector.h"
+	"Stack.h"
+	"algorithms.h"
+
+1715652882 d:\study\2024cpp\final_design\cs1604-assignments\2024\final\judger_student\mages&goblins\engine.h
+	<iostream>
+	"field.h"
+
+1715653259 d:\study\2024cpp\final_design\cs1604-assignments\2024\final\judger_student\mages&goblins\units.h
+	<memory>
+	<string>
+	"field.h"
+
+1715653181 source:d:\study\2024cpp\final_design\cs1604-assignments\2024\final\judger_student\mages&goblins\field.cpp
+	<string>
+	<cassert>
+	<iomanip>
+	"field.h"
+	"units.h"
+
+1715653149 source:d:\study\2024cpp\final_design\cs1604-assignments\2024\final\judger_student\mages&goblins\units.cpp
+	"units.h"
+	"field.h"
+	<cassert>
+
+1715652275 source:d:\study\2024cpp\final_design\cs1604-assignments\2024\final\judger_student\mages&goblins\main.cpp
+	<iostream>
+	<fstream>
+	"field.h"
+	"units.h"
+	"engine.h"
+
+1716336138 source:d:\learn\cs\homework\bigwork\source\1_task1\algorithms.cpp
+	"algorithms.h"
+	<Vector.h>
+	<Grid.h>
+	<cassert>
+	<Queue.h>
+
+1716336138 d:\learn\cs\homework\bigwork\source\1_task1\algorithms.h
+	<Grid.h>
+	<Vector.h>
+	"field.h"
+
+1716341595 d:\learn\cs\homework\bigwork\source\1_task1\field.h
+	<ostream>
+	<Grid.h>
+
+1716355239 source:d:\learn\cs\homework\bigwork\source\1_task1\field.cpp
+	<string>
+	<cassert>
+	<iomanip>
+	"field.h"
+	"units.h"
+
+1716336139 d:\learn\cs\homework\bigwork\source\1_task1\units.h
+	<memory>
+	<string>
+	"field.h"
+
+1716341098 source:d:\learn\cs\homework\bigwork\source\1_task1\units.cpp
+	"units.h"
+	"field.h"
+	<cassert>
+
+1716362722 source:d:\learn\cs\homework\bigwork\source\1_task1\main.cpp
+	<iostream>
+	<fstream>
+	"field.h"
+	"units.h"
+	"engine.h"
+
+1716336138 d:\learn\cs\homework\bigwork\source\1_task1\engine.h
+	<iostream>
+	"field.h"
+
+1716361929 source:d:\learn\cs\homework\bigwork\source\1_task1\engine.cpp
+	<sstream>
+	<iomanip>
+	<cassert>
+	<Queue.h>
+	"engine.h"
+	"units.h"
+	"vector.h"
+	"Stack.h"
+	"algorithms.h"
+
+1716336138 source:d:\learn\cs\homework\bigwork\mages&goblins\algorithms.cpp
+	"algorithms.h"
+	<Vector.h>
+	<Grid.h>
+	<cassert>
+	<Queue.h>
+
+1716336138 d:\learn\cs\homework\bigwork\mages&goblins\algorithms.h
+	<Grid.h>
+	<Vector.h>
+	"field.h"
+
+1716341595 d:\learn\cs\homework\bigwork\mages&goblins\field.h
+	<ostream>
+	<Grid.h>
+
+1716546577 source:d:\learn\cs\homework\bigwork\mages&goblins\engine.cpp
+	<sstream>
+	<iomanip>
+	<cassert>
+	<Queue.h>
+	"engine.h"
+	"units.h"
+	"vector.h"
+	"Stack.h"
+	"algorithms.h"
+
+1716336138 d:\learn\cs\homework\bigwork\mages&goblins\engine.h
+	<iostream>
+	"field.h"
+
+1716538898 d:\learn\cs\homework\bigwork\mages&goblins\units.h
+	<memory>
+	<string>
+	"field.h"
+
+1716392531 source:d:\learn\cs\homework\bigwork\mages&goblins\field.cpp
+	<string>
+	<cassert>
+	<iomanip>
+	"field.h"
+	"units.h"
+
+1716364254 source:d:\learn\cs\homework\bigwork\mages&goblins\main.cpp
+	<iostream>
+	<fstream>
+	"field.h"
+	"units.h"
+	"engine.h"
+
+1716538922 source:d:\learn\cs\homework\bigwork\mages&goblins\units.cpp
+	"units.h"
+	"field.h"
+	<cassert>
+
+1716336138 source:d:\learn\cs\homework\bigwork\source\2_task2\algorithms.cpp
+	"algorithms.h"
+	<Vector.h>
+	<Grid.h>
+	<cassert>
+	<Queue.h>
+
+1716336138 d:\learn\cs\homework\bigwork\source\2_task2\algorithms.h
+	<Grid.h>
+	<Vector.h>
+	"field.h"
+
+1716341595 d:\learn\cs\homework\bigwork\source\2_task2\field.h
+	<ostream>
+	<Grid.h>
+
+1716392531 source:d:\learn\cs\homework\bigwork\source\2_task2\field.cpp
+	<string>
+	<cassert>
+	<iomanip>
+	"field.h"
+	"units.h"
+
+1716336139 d:\learn\cs\homework\bigwork\source\2_task2\units.h
+	<memory>
+	<string>
+	"field.h"
+
+1716364254 source:d:\learn\cs\homework\bigwork\source\2_task2\main.cpp
+	<iostream>
+	<fstream>
+	"field.h"
+	"units.h"
+	"engine.h"
+
+1716336138 d:\learn\cs\homework\bigwork\source\2_task2\engine.h
+	<iostream>
+	"field.h"
+
+1716366152 source:d:\learn\cs\homework\bigwork\source\2_task2\units.cpp
+	"units.h"
+	"field.h"
+	<cassert>
+
+1716444961 source:d:\learn\cs\homework\bigwork\source\2_task2\engine.cpp
+	<sstream>
+	<iomanip>
+	<cassert>
+	<Queue.h>
+	"engine.h"
+	"units.h"
+	"vector.h"
+	"Stack.h"
+	"algorithms.h"
+
+1716336138 source:d:\learn\cs\homework\bigwork\source\4_task4\algorithms.cpp
+	"algorithms.h"
+	<Vector.h>
+	<Grid.h>
+	<cassert>
+	<Queue.h>
+
+1716336138 d:\learn\cs\homework\bigwork\source\4_task4\algorithms.h
+	<Grid.h>
+	<Vector.h>
+	"field.h"
+
+1716341595 d:\learn\cs\homework\bigwork\source\4_task4\field.h
+	<ostream>
+	<Grid.h>
+
+1716392531 source:d:\learn\cs\homework\bigwork\source\4_task4\field.cpp
+	<string>
+	<cassert>
+	<iomanip>
+	"field.h"
+	"units.h"
+
+1716538898 d:\learn\cs\homework\bigwork\source\4_task4\units.h
+	<memory>
+	<string>
+	"field.h"
+
+1716364254 source:d:\learn\cs\homework\bigwork\source\4_task4\main.cpp
+	<iostream>
+	<fstream>
+	"field.h"
+	"units.h"
+	"engine.h"
+
+1716336138 d:\learn\cs\homework\bigwork\source\4_task4\engine.h
+	<iostream>
+	"field.h"
+
+1716538922 source:d:\learn\cs\homework\bigwork\source\4_task4\units.cpp
+	"units.h"
+	"field.h"
+	<cassert>
+
+1716777080 source:d:\learn\cs\homework\bigwork\source\4_task4\engine.cpp
+	<sstream>
+	<iomanip>
+	<cassert>
+	<Queue.h>
+	"engine.h"
+	"units.h"
+	"vector.h"
+	"Stack.h"
+	"algorithms.h"
+
