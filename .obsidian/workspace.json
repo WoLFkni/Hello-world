@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pillar",
+                "query": "stricken",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5,
-    "collapsed": true
+    "width": 213.5
   },
   "right": {
     "id": "f2318133a5c26801",
@@ -159,7 +158,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "b11ae0b416814ac0",
+  "active": "f7c2daf3fb74f4e1",
   "lastOpenFiles": [
     "learning/English/Note/期中翻译词语.md",
     "learning/English/Note/逗号十二剑法.md",
