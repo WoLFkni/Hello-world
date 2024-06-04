@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pillar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 347.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,8 +161,9 @@
   },
   "active": "b11ae0b416814ac0",
   "lastOpenFiles": [
-    "learning/English/Note/主语选择.md",
+    "learning/English/Note/期中翻译词语.md",
     "learning/English/Note/逗号十二剑法.md",
+    "learning/English/Note/主语选择.md",
     "learning/English/Note/笔记test 1.md",
     "learning/English/Note/structure.md",
     "learning/English/Note/笔记test2.md",
@@ -172,7 +174,6 @@
     "无人称结构.md",
     "learning/English/Note/翻译作业.md",
     "learning/English/Note/graph and drawing.md",
-    "learning/English/Note/期中翻译词语.md",
     "learning/English/错误翻译.md",
     "learning/English/Note/期中翻译句子.md",
     "learning/数电/note.md",
