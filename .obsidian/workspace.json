@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/English/Note/逗号十二剑法.md",
+                "file": "learning/cs/Note.md",
                 "mode": "preview",
                 "source": true
               }
@@ -65,13 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 213.5,
-    "collapsed": true
+    "width": 213.5
   },
   "right": {
     "id": "f2318133a5c26801",
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/English/Note/逗号十二剑法.md",
+                "file": "learning/cs/Note.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning/English/Note/逗号十二剑法.md",
+                "file": "learning/cs/Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/English/Note/逗号十二剑法.md"
+                "file": "learning/cs/Note.md"
               }
             }
           },
@@ -160,8 +158,8 @@
   },
   "active": "b11ae0b416814ac0",
   "lastOpenFiles": [
-    "learning/English/Note/期中翻译词语.md",
     "learning/English/Note/逗号十二剑法.md",
+    "learning/English/Note/期中翻译词语.md",
     "learning/English/Note/主语选择.md",
     "learning/English/Note/笔记test 1.md",
     "learning/English/Note/structure.md",

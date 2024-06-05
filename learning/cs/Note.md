@@ -18,3 +18,7 @@ private:
 ```
 > assert
 ![[Pasted image 20240508093740.png]]![[Pasted image 20240508093813.png]]
+
+> (void\*)p
+> void\* 万能指针
+> void\* 类型的数组可以存储一系列不同类型的指针
