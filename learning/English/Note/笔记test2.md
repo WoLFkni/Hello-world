@@ -58,7 +58,7 @@ aggravate the head ache
 25、 **复合型人才**
 
 26、 **家用电器设备**
-
+household electrical appliances
 27、 **说一口纯正的法语**
 
 28、 **定期观看原版电影**
