@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/English/Note/graph and drawing.md",
+                "file": "learning/English/Note/逗号十二剑法.md",
                 "mode": "preview",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "纯正的",
+                "query": "连续",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/English/Note/graph and drawing.md",
+                "file": "learning/English/Note/逗号十二剑法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning/English/Note/graph and drawing.md",
+                "file": "learning/English/Note/逗号十二剑法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/English/Note/graph and drawing.md"
+                "file": "learning/English/Note/逗号十二剑法.md"
               }
             }
           },
@@ -158,12 +159,14 @@
   },
   "active": "b11ae0b416814ac0",
   "lastOpenFiles": [
+    "learning/English/Note/笔记test 1.md",
+    "learning/English/错误翻译.md",
+    "learning/English/Note/graph and drawing.md",
     "learning/English/Note/structure.md",
     "learning/English/Note/笔记test2.md",
     "learning/English/Note/主语选择.md",
     "learning/English/Note/逗号十二剑法.md",
     "learning/English/Note/Dictation.md",
-    "learning/English/Note/笔记test 1.md",
     "learning/cs/Note.md",
     "learning/English/Note/期中翻译词语.md",
     "learning/English/Note/note补录.md",
@@ -172,8 +175,6 @@
     "less than + adj..md",
     "无人称结构.md",
     "learning/English/Note/翻译作业.md",
-    "learning/English/Note/graph and drawing.md",
-    "learning/English/错误翻译.md",
     "learning/English/Note/期中翻译句子.md",
     "learning/数电/note.md",
     "learning/English/Note/列表.md",
