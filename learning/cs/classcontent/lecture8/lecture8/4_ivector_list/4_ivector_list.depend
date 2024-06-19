@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1716088997 source:c:\cygwin64\home\yuting\projects\cs1604-spring2024\examples\lecture8\4_ivector_list\linked_list.cpp
+	<iostream>
+	"linked_list.h"
+
+1716096100 c:\cygwin64\home\yuting\projects\cs1604-spring2024\examples\lecture8\4_ivector_list\linked_list.h
+
+1716092789 source:c:\cygwin64\home\yuting\projects\cs1604-spring2024\examples\lecture8\4_ivector_list\main.cpp
+	<iostream>
+	"Vector.h"
+
+1716099536 c:\cygwin64\home\yuting\projects\cs1604-spring2024\examples\lecture8\4_ivector_list\vector.h
+
+1716092755 source:c:\cygwin64\home\yuting\projects\cs1604-spring2024\examples\lecture8\4_ivector_list\vector.cpp
+	"Linked_List.h"
+	"Vector.h"
+
+1716779128 source:d:\learn\cs\classcontent\lecture8\lecture8\4_ivector_list\main.cpp
+	<iostream>
+	"Vector.h"
+
+1716779128 d:\learn\cs\classcontent\lecture8\lecture8\4_ivector_list\vector.h
+
+1716779128 source:d:\learn\cs\classcontent\lecture8\lecture8\4_ivector_list\vector.cpp
+	"Linked_List.h"
+	"Vector.h"
+
+1716779782 d:\learn\cs\classcontent\lecture8\lecture8\4_ivector_list\linked_list.h
+

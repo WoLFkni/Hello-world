@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1650780755 source:c:\cygwin64\home\yuting\projects\cs1604\examples\lecture6\1_private_memfunc\main.cpp
+	<iostream>
+	<fstream>
+
+1676098364 source:c:\cygwin64\home\yuting\projects\cs1604-spring2023\examples\lecture6\2_private_memfunc\main.cpp
+	<iostream>
+	<fstream>
+
+1676098364 source:c:\cygwin64\home\yuting\projects\cs1604-spring2024\examples\lecture7\2_private_memfunc\main.cpp
+	<iostream>
+	<fstream>
+

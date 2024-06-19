@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1713690537 source:d:\manythings\learning\cs\homework\assignment4\source\3_register\main.cpp
+	<iostream>
+	<istream>
+	<sstream>
+

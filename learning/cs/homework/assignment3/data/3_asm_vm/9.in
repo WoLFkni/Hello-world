@@ -1,0 +1,23 @@
+22
+Const 2147483647
+Assign vx
+Const 16382
+Assign vy
+Var vx
+Var vy
+JmpEq 20
+Var vx
+Var vy
+JmpLt 15
+Var vx
+Var vy
+Sub
+Assign vx
+Jmp 19
+Var vy
+Var vx
+Sub
+Assign vy
+Jmp 4
+Print vx
+Halt

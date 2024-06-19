@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1715241760 source:d:\learn\cs\classcontent\test\pointer\main.cpp
+	<iostream>
+	<assert.h>
+

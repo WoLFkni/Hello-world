@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1651980170 source:c:\cygwin64\home\yuting\projects\cs1604\examples\lecture6\15_clock_interface\counter.cpp
+	"counter.h"
+	<iostream>
+
+1651980138 c:\cygwin64\home\yuting\projects\cs1604\examples\lecture6\15_clock_interface\counter.h
+
+1651980082 source:c:\cygwin64\home\yuting\projects\cs1604\examples\lecture6\15_clock_interface\main.cpp
+	<iostream>
+	"clock.h"
+
+1651980097 c:\cygwin64\home\yuting\projects\cs1604\examples\lecture6\15_clock_interface\clock.h
+	"Counter.h"
+
+1651980041 source:c:\cygwin64\home\yuting\projects\cs1604\examples\lecture6\15_clock_interface\clock.cpp
+	"clock.h"
+

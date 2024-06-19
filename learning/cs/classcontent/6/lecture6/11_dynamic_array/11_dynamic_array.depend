@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712991988 source:c:\cygwin64\home\yuting\projects\cs1604-spring2024\examples\lecture5\11_dynamic_array\main.cpp
+	<iostream>
+	<random.h>
+

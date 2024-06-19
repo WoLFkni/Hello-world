@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1716638056 source:d:\learn\cs\classcontent\test\test\main.cpp
+	<iostream>
+	<iomanip>
+

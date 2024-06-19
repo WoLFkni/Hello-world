@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1716095992 source:c:\cygwin64\home\yuting\projects\cs1604-spring2024\examples\lecture8\5_vector_template\main.cpp
+	<iostream>
+	"Vector.h"
+
+1716099296 c:\cygwin64\home\yuting\projects\cs1604-spring2024\examples\lecture8\5_vector_template\vector.h
+	"linked_list.h"
+
+1716095929 c:\cygwin64\home\yuting\projects\cs1604-spring2024\examples\lecture8\5_vector_template\linked_list.h
+
