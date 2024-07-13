@@ -15,7 +15,25 @@
               "state": {
                 "file": "learning/cs/P0-王乐凡-523030910036.md",
                 "mode": "source",
-                "source": false
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "dadb2d9bbd442524",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5881430c1ae890c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/cs/P0-王乐凡-523030910036.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -69,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 213.5,
+    "collapsed": true
   },
   "right": {
     "id": "f2318133a5c26801",
@@ -159,6 +178,9 @@
   },
   "active": "b11ae0b416814ac0",
   "lastOpenFiles": [
+    "Pasted image 20240713141139.png",
+    "Pasted image 20240713141014.png",
+    "Pasted image 20240713140912.png",
     "Pasted image 20240713140604.png",
     "Pasted image 20240713135441.png",
     "Pasted image 20240713135131.png",
@@ -167,7 +189,6 @@
     "Pasted image 20240713134121.png",
     "Pasted image 20240713133305.png",
     "Pasted image 20240713133129.png",
-    "Pasted image 20240713132756.png",
     "learning/English/Note/逗号十二剑法.md",
     "learning/cs/P0-王乐凡-523030910036.md",
     "learning/cs/luo/3/3/obj/Debug/main.o",
@@ -180,8 +201,6 @@
     "learning/cs/luo/2/bin/Debug/2.exe",
     "learning/cs/luo/3/3/main.cpp",
     "learning/cs/luo/3/3/3.layout",
-    "learning/cs/homework/bigwork/readme/pic/track5.png",
-    "learning/cs/homework/bigwork/readme/pic/track4.png",
     "learning/cs/homework/bigwork/readme/description.md",
     "learning/cs/homework/assignment5/assignment5.md",
     "learning/cs/data/readme/description.md",
