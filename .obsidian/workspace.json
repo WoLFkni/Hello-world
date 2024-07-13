@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5a816969deeb9b5b",
+        "id": "03991b1e12ea124a",
         "type": "tabs",
         "children": [
           {
-            "id": "b11ae0b416814ac0",
+            "id": "494163c96b7923c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5,
-    "collapsed": true
+    "width": 213.5
   },
   "right": {
     "id": "f2318133a5c26801",
@@ -158,8 +157,9 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "b11ae0b416814ac0",
+  "active": "494163c96b7923c0",
   "lastOpenFiles": [
+    "learning/cs/P0-王乐凡-523030910036.md",
     "Pasted image 20240713141139.png",
     "Pasted image 20240713141014.png",
     "Pasted image 20240713140912.png",
@@ -170,9 +170,7 @@
     "Pasted image 20240713134225.png",
     "Pasted image 20240713134121.png",
     "Pasted image 20240713133305.png",
-    "Pasted image 20240713133129.png",
     "learning/English/Note/逗号十二剑法.md",
-    "learning/cs/P0-王乐凡-523030910036.md",
     "learning/cs/luo/3/3/obj/Debug/main.o",
     "learning/cs/luo/3/3/bin/Debug/3.exe",
     "learning/cs/luo/luogu/obj/Debug/main.o",
