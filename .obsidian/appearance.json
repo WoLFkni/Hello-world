@@ -1,8 +1,8 @@
 {
   "accentColor": "#f8c537",
-  "cssTheme": "Wasp",
+  "cssTheme": "Everforest",
   "baseFontSizeAction": true,
-  "theme": "obsidian",
+  "theme": "moonstone",
   "baseFontSize": 16,
   "enabledCssSnippets": [
     "eye-protection-color"
