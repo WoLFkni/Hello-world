@@ -15,7 +15,7 @@
               "state": {
                 "file": "learning/cs/P0-王乐凡-523030910036.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -160,6 +160,7 @@
   },
   "active": "b11ae0b416814ac0",
   "lastOpenFiles": [
+    "Pasted image 20240713133305.png",
     "Pasted image 20240713133129.png",
     "Pasted image 20240713132756.png",
     "learning/English/Note/逗号十二剑法.md",
@@ -182,7 +183,6 @@
     "learning/cs/homework/bigwork/readme/pic/patrol_simple3.png",
     "learning/cs/homework/bigwork/readme/pic/track1.png",
     "learning/cs/homework/bigwork/readme/pic/patrol3.png",
-    "learning/cs/homework/bigwork/readme/pic/patrol5.png",
     "learning/cs/homework/bigwork/readme/description.md",
     "learning/cs/homework/assignment5/assignment5.md",
     "learning/cs/data/readme/description.md",
