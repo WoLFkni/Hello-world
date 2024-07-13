@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "learning/cs/P0-王乐凡-523030910036.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -160,6 +160,7 @@
   },
   "active": "b11ae0b416814ac0",
   "lastOpenFiles": [
+    "Pasted image 20240713135441.png",
     "Pasted image 20240713135131.png",
     "Pasted image 20240713135049.png",
     "Pasted image 20240713134225.png",
@@ -182,7 +183,6 @@
     "learning/cs/homework/bigwork/readme/pic/track5.png",
     "learning/cs/homework/bigwork/readme/pic/track4.png",
     "learning/cs/homework/bigwork/readme/pic/track3.png",
-    "learning/cs/homework/bigwork/readme/pic/patrol_simple2.png",
     "learning/cs/homework/bigwork/readme/description.md",
     "learning/cs/homework/assignment5/assignment5.md",
     "learning/cs/data/readme/description.md",

@@ -3,7 +3,7 @@
   "cssTheme": "Wasp",
   "baseFontSizeAction": true,
   "theme": "obsidian",
-  "baseFontSize": 15,
+  "baseFontSize": 16,
   "enabledCssSnippets": [
     "eye-protection-color"
   ]
