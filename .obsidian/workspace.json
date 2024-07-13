@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/English/Note/逗号十二剑法.md",
-                "mode": "preview",
+                "file": "learning/cs/P0-王乐凡-523030910036.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 213.5,
+    "collapsed": true
   },
   "right": {
     "id": "f2318133a5c26801",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/English/Note/逗号十二剑法.md",
+                "file": "learning/cs/P0-王乐凡-523030910036.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning/English/Note/逗号十二剑法.md",
+                "file": "learning/cs/P0-王乐凡-523030910036.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/English/Note/逗号十二剑法.md"
+                "file": "learning/cs/P0-王乐凡-523030910036.md"
               }
             }
           },
@@ -143,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 347.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,6 +160,8 @@
   },
   "active": "b11ae0b416814ac0",
   "lastOpenFiles": [
+    "learning/English/Note/逗号十二剑法.md",
+    "learning/cs/P0-王乐凡-523030910036.md",
     "learning/cs/luo/3/3/obj/Debug/main.o",
     "learning/cs/luo/3/3/bin/Debug/3.exe",
     "learning/cs/luo/luogu/obj/Debug/main.o",
@@ -169,7 +172,6 @@
     "learning/cs/luo/2/bin/Debug/2.exe",
     "learning/cs/luo/3/3/main.cpp",
     "learning/cs/luo/3/3/3.layout",
-    "learning/cs/luo/3/3/obj",
     "learning/cs/homework/bigwork/readme/pic/track5.png",
     "learning/cs/homework/bigwork/readme/pic/track4.png",
     "learning/cs/homework/bigwork/readme/pic/track3.png",
@@ -189,7 +191,6 @@
     "learning/English/Note/structure.md",
     "learning/English/Note/笔记test2.md",
     "learning/English/Note/主语选择.md",
-    "learning/English/Note/逗号十二剑法.md",
     "learning/English/Note/Dictation.md",
     "learning/cs/Note.md",
     "learning/English/Note/期中翻译词语.md",
