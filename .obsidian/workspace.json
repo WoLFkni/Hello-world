@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "03991b1e12ea124a",
+        "id": "a673f322e6dcb72e",
         "type": "tabs",
         "children": [
           {
-            "id": "494163c96b7923c0",
+            "id": "e7fd5dfd096e57f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -157,9 +157,13 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "494163c96b7923c0",
+  "active": "e7fd5dfd096e57f3",
   "lastOpenFiles": [
     "homework/P0-王乐凡-523030910036.pdf",
+    "learning/cs/description.md",
+    "learning/cs/Note.md",
+    "learning/cs/review.md",
+    "learning/cs/review(1).md",
     "learning/cs/总结文档.md",
     "Pasted image 20240713141139.png",
     "Pasted image 20240713141014.png",
@@ -191,10 +195,8 @@
     "learning/English/Note/笔记test2.md",
     "learning/English/Note/主语选择.md",
     "learning/English/Note/Dictation.md",
-    "learning/cs/Note.md",
     "learning/English/Note/期中翻译词语.md",
     "learning/English/Note/note补录.md",
-    "learning/cs/description.md",
     "learning/English/Note/recommended homework.md",
     "less than + adj..md",
     "无人称结构.md",
@@ -202,8 +204,6 @@
     "learning/English/Note/期中翻译句子.md",
     "learning/数电/note.md",
     "learning/English/Note/列表.md",
-    "learning/English/Note/西湖醋鱼.md",
-    "learning/cs/review(1).md",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
