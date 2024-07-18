@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/cs/总结文档.md",
+                "file": "learning/cs/未命名.md",
                 "mode": "source",
                 "source": true
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/cs/总结文档.md",
+                "file": "learning/cs/未命名.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning/cs/总结文档.md",
+                "file": "learning/cs/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/cs/总结文档.md"
+                "file": "learning/cs/未命名.md"
               }
             }
           },
@@ -159,12 +159,13 @@
   },
   "active": "e7fd5dfd096e57f3",
   "lastOpenFiles": [
+    "learning/cs/总结文档.md",
+    "learning/cs/未命名.md",
     "homework/P0-王乐凡-523030910036.pdf",
     "learning/cs/description.md",
     "learning/cs/Note.md",
     "learning/cs/review.md",
     "learning/cs/review(1).md",
-    "learning/cs/总结文档.md",
     "Pasted image 20240713141139.png",
     "Pasted image 20240713141014.png",
     "Pasted image 20240713140912.png",
