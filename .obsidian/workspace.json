@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/cs/未命名 1.md",
-                "mode": "source",
-                "source": true
+                "file": "社会实践/未命名.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/cs/未命名 1.md",
+                "file": "社会实践/未命名.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning/cs/未命名 1.md",
+                "file": "社会实践/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/cs/未命名 1.md"
+                "file": "社会实践/未命名.md"
               }
             }
           },
@@ -159,9 +159,12 @@
   },
   "active": "e7fd5dfd096e57f3",
   "lastOpenFiles": [
+    "未命名.md",
+    "社会实践/未命名.md",
+    "learning/cs/总结文档.md",
+    "社会实践",
     "learning/cs/未命名.md",
     "learning/cs/未命名 1.md",
-    "learning/cs/总结文档.md",
     "homework/P0-王乐凡-523030910036.pdf",
     "learning/cs/description.md",
     "learning/cs/Note.md",
@@ -186,7 +189,6 @@
     "learning/cs/luo/2/obj/Debug/main.o",
     "learning/cs/luo/luogu/bin/Debug/luogu.exe",
     "learning/cs/luo/2/bin/Debug/2.exe",
-    "learning/cs/luo/3/3/main.cpp",
     "learning/cs/homework/bigwork/readme/description.md",
     "learning/cs/homework/assignment5/assignment5.md",
     "learning/cs/data/readme/description.md",
@@ -203,8 +205,6 @@
     "less than + adj..md",
     "无人称结构.md",
     "learning/English/Note/翻译作业.md",
-    "learning/English/Note/期中翻译句子.md",
-    "learning/数电/note.md",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
