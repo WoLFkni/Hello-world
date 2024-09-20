@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ds/未命名.md",
-                "mode": "preview",
+                "file": "线性优化与凸优化/未命名.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ds/未命名.md",
+                "file": "线性优化与凸优化/未命名.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ds/未命名.md",
+                "file": "线性优化与凸优化/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ds/未命名.md"
+                "file": "线性优化与凸优化/未命名.md"
               }
             }
           },
@@ -160,8 +160,10 @@
   },
   "active": "b9246679404529d6",
   "lastOpenFiles": [
-    "王乐凡+523030910036+学期回顾.md",
     "ds/未命名.md",
+    "线性优化与凸优化/未命名.md",
+    "线性优化与凸优化",
+    "王乐凡+523030910036+学期回顾.md",
     "ds",
     "learning/cs/总结文档.md",
     "社会实践/未命名.md",
@@ -190,7 +192,6 @@
     "learning/cs/luo/3/3/obj/Debug",
     "learning/cs/luo/3/3/bin/Debug",
     "learning/cs/luo/2/obj/Debug/main.o",
-    "learning/cs/luo/luogu/bin/Debug/luogu.exe",
     "learning/cs/homework/bigwork/readme/description.md",
     "learning/cs/homework/assignment5/assignment5.md",
     "learning/cs/data/readme/description.md",
@@ -205,7 +206,6 @@
     "learning/English/Note/note补录.md",
     "learning/English/Note/recommended homework.md",
     "less than + adj..md",
-    "无人称结构.md",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
