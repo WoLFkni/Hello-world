@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/大物/未命名.md",
+                "file": "数论/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/大物/未命名.md",
+                "file": "数论/未命名.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning/大物/未命名.md",
+                "file": "数论/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/大物/未命名.md"
+                "file": "数论/未命名.md"
               }
             }
           },
@@ -159,8 +159,10 @@
   },
   "active": "b9246679404529d6",
   "lastOpenFiles": [
-    "线性优化与凸优化/未命名.md",
     "learning/大物/未命名.md",
+    "数论/未命名.md",
+    "数论",
+    "线性优化与凸优化/未命名.md",
     "未命名.md",
     "线性优化与凸优化/求导（作业为例）.md",
     "ds/栈.md",
@@ -196,7 +198,6 @@
     "learning/cs/luo/luogu/obj/Debug/main.o",
     "learning/cs/luo/3/3/obj/Debug",
     "learning/cs/luo/3/3/bin/Debug",
-    "learning/cs/luo/2/obj/Debug/main.o",
     "learning/cs/homework/bigwork/readme/description.md",
     "learning/cs/homework/assignment5/assignment5.md",
     "learning/cs/data/readme/description.md",
@@ -205,7 +206,6 @@
     "learning/English/Note/graph and drawing.md",
     "learning/English/Note/structure.md",
     "learning/English/Note/笔记test2.md",
-    "learning/English/Note/主语选择.md",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
