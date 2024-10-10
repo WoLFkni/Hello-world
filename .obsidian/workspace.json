@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/复分析.md",
+                "file": "ds/栈.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学/复分析.md",
+                "file": "ds/栈.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/复分析.md",
+                "file": "ds/栈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学/复分析.md"
+                "file": "ds/栈.md"
               }
             }
           },
@@ -159,8 +159,9 @@
   },
   "active": "b9246679404529d6",
   "lastOpenFiles": [
-    "数学/数论.md",
+    "ds/未命名.canvas",
     "数学/复分析.md",
+    "数学/数论.md",
     "learning/大物/未命名.md",
     "数学",
     "线性优化与凸优化/未命名.md",
@@ -168,7 +169,6 @@
     "线性优化与凸优化/求导（作业为例）.md",
     "ds/栈.md",
     "ds/线性表.md",
-    "ds/未命名.canvas",
     "ds/绪论.md",
     "线性优化与凸优化",
     "王乐凡+523030910036+学期回顾.md",
@@ -205,7 +205,6 @@
     "learning/English/Note/笔记test 1.md",
     "learning/English/错误翻译.md",
     "learning/English/Note/graph and drawing.md",
-    "learning/English/Note/structure.md",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"

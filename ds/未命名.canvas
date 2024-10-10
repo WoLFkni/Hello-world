@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"23106c857c168d5b","x":-580,"y":-320,"width":400,"height":400,"type":"file","file":"ds/绪论.md"}
+		{"id":"23106c857c168d5b","type":"file","file":"ds/绪论.md","x":-900,"y":-360,"width":400,"height":400},
+		{"id":"cc2fd4a5664bfad4","x":-440,"y":-360,"width":400,"height":400,"type":"file","file":"ds/线性表.md"}
 	],
 	"edges":[]
 }
