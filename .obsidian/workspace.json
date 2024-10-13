@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ds/栈.md",
+                "file": "ds/线性表.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ds/栈.md",
+                "file": "ds/线性表.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ds/栈.md",
+                "file": "ds/线性表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ds/栈.md"
+                "file": "ds/线性表.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "b9246679404529d6",
   "lastOpenFiles": [
+    "ds/栈.md",
     "ds/未命名.canvas",
     "数学/复分析.md",
     "数学/数论.md",
@@ -167,7 +168,6 @@
     "线性优化与凸优化/未命名.md",
     "未命名.md",
     "线性优化与凸优化/求导（作业为例）.md",
-    "ds/栈.md",
     "ds/线性表.md",
     "ds/绪论.md",
     "线性优化与凸优化",
