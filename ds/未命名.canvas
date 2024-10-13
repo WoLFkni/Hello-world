@@ -1,7 +1,9 @@
 {
 	"nodes":[
 		{"id":"23106c857c168d5b","type":"file","file":"ds/绪论.md","x":-900,"y":-360,"width":400,"height":400},
-		{"id":"cc2fd4a5664bfad4","x":-440,"y":-360,"width":400,"height":400,"type":"file","file":"ds/线性表.md"}
+		{"id":"cc2fd4a5664bfad4","type":"file","file":"ds/线性表.md","x":-440,"y":-360,"width":400,"height":400},
+		{"id":"031c9bb28f5bc1fb","x":60,"y":-360,"width":400,"height":400,"type":"file","file":"ds/栈.md"},
+		{"id":"ad8f10d6d342f738","x":-900,"y":100,"width":250,"height":60,"type":"text","text":"模板类的函数如果有错visual studio似乎不报错"}
 	],
 	"edges":[]
 }

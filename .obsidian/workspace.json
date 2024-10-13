@@ -11,11 +11,14 @@
             "id": "b9246679404529d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "ds/线性表.md",
-                "mode": "source",
-                "source": false
+                "file": "ds/未命名.canvas",
+                "viewState": {
+                  "x": -137.57125968210252,
+                  "y": -10.307565913598452,
+                  "zoom": -0.28419909918308245
+                }
               }
             }
           }
@@ -96,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ds/线性表.md",
+                "file": "ds/未命名.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ds/线性表.md",
+                "file": "ds/未命名.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ds/线性表.md"
+                "file": "ds/未命名.canvas"
               }
             }
           },
@@ -159,6 +162,7 @@
   },
   "active": "b9246679404529d6",
   "lastOpenFiles": [
+    "ds/线性表.md",
     "ds/栈.md",
     "ds/未命名.canvas",
     "数学/复分析.md",
@@ -168,7 +172,6 @@
     "线性优化与凸优化/未命名.md",
     "未命名.md",
     "线性优化与凸优化/求导（作业为例）.md",
-    "ds/线性表.md",
     "ds/绪论.md",
     "线性优化与凸优化",
     "王乐凡+523030910036+学期回顾.md",
