@@ -3,7 +3,7 @@
   "cssTheme": "Everforest",
   "baseFontSizeAction": true,
   "theme": "moonstone",
-  "baseFontSize": 17,
+  "baseFontSize": 16,
   "enabledCssSnippets": [
     "eye-protection-color"
   ]
