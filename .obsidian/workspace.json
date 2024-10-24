@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ds/树.md",
+                "file": "ds/队列.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "树"
+              "title": "队列"
             }
           }
         ]
@@ -177,8 +177,8 @@
   },
   "active": "b9246679404529d6",
   "lastOpenFiles": [
-    "ds/未命名.canvas",
     "ds/树.md",
+    "ds/未命名.canvas",
     "线性优化与凸优化/Homework2 (2024Fall-CS2601-03).md",
     "ds/队列.md",
     "ds/线性表.md",
